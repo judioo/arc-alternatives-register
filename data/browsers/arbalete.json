@@ -4,20 +4,43 @@
   "website": "https://arbalete.co/",
   "repository": "https://github.com/amenophis/arbalete",
   "engine": "chromium",
-  "engine_detail": "Chromium (CEF)",
+  "engine_detail": "Chromium 156 (CEF 156.0.7, with proprietary codecs)",
   "platforms": [
     "macos"
   ],
   "licence": "MPL-2.0",
   "open_source": true,
-  "status": "unknown",
+  "status": "active",
   "listed_in": [
     "awesome-arc-alternatives"
   ],
   "sources": [
     "https://arbalete.co/",
-    "https://github.com/amenophis/arbalete"
+    "https://github.com/amenophis/arbalete",
+    "https://github.com/amenophis/arbalete/blob/main/README.md",
+    "https://github.com/amenophis/arbalete/releases",
+    "https://github.com/amenophis/arbalete/releases/tag/v0.8.1",
+    "https://github.com/amenophis/arbalete/releases/tag/v0.8.0",
+    "https://github.com/amenophis/arbalete/releases/tag/v0.7.0",
+    "https://github.com/amenophis/arbalete/releases/tag/v0.6.0",
+    "https://github.com/amenophis/arbalete/releases/tag/v0.4.0",
+    "https://github.com/amenophis/arbalete/commits/main",
+    "https://github.com/amenophis/arbalete/blob/main/app/src/command.rs",
+    "https://github.com/amenophis/arbalete/blob/main/app/src/settings.rs",
+    "https://github.com/amenophis/arbalete/blob/main/Cargo.toml",
+    "https://github.com/amenophis/arbalete/blob/main/.config/mise.toml",
+    "https://github.com/amenophis/arbalete/blob/main/crates/arbalete-core/src/search.rs",
+    "https://github.com/amenophis/arbalete/blob/main/crates/arbalete-core/src/url_routing.rs",
+    "https://github.com/amenophis/arbalete/blob/main/docs/decisions/0001-web-engine.md",
+    "https://github.com/amenophis/arbalete/blob/main/docs/decisions/0006-release-without-notarization.md",
+    "https://github.com/amenophis/arbalete/blob/main/docs/decisions/0007-first-launch-onboarding.md",
+    "https://github.com/amenophis/arbalete/blob/main/docs/decisions/0013-github-folders.md",
+    "https://github.com/amenophis/arbalete/blob/main/docs/decisions/0015-password-import.md",
+    "https://github.com/amenophis/arbalete/blob/main/docs/decisions/0017-applescript.md",
+    "https://chromereleases.googleblog.com/2026/"
   ],
-  "checked": null,
-  "notes": null
+  "checked": "2026-11-26",
+  "notes": null,
+  "maturity": "alpha",
+  "price": "Free"
 }

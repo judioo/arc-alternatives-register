@@ -4,22 +4,34 @@
   "website": "https://ilobrowser.com/",
   "repository": "https://github.com/MartinPTielemans/ilo",
   "engine": "chromium",
-  "engine_detail": "Chromium (fork)",
+  "engine_detail": "Chromium 157 (ungoogled-chromium), with WebKit for protected video on Mac",
   "platforms": [
-    "windows",
     "macos",
+    "windows",
     "linux"
   ],
   "licence": "GPL-3.0-or-later",
   "open_source": true,
-  "status": "unknown",
+  "status": "active",
   "listed_in": [
     "awesome-arc-alternatives"
   ],
   "sources": [
     "https://ilobrowser.com/",
-    "https://github.com/MartinPTielemans/ilo"
+    "https://github.com/MartinPTielemans/ilo",
+    "https://github.com/MartinPTielemans/ilo/blob/main/README.md",
+    "https://github.com/MartinPTielemans/ilo/releases",
+    "https://github.com/MartinPTielemans/ilo/releases/tag/v0.3.0",
+    "https://github.com/MartinPTielemans/ilo/commits/main",
+    "https://github.com/MartinPTielemans/ilo/blob/main/docs/roadmap.md",
+    "https://github.com/MartinPTielemans/ilo/blob/main/docs/releasing.md",
+    "https://github.com/MartinPTielemans/ilo/blob/main/docs/ux-spec.md",
+    "https://github.com/MartinPTielemans/ilo/blob/main/engine/pins.ini",
+    "https://ilobrowser.com/changelog",
+    "https://chromereleases.googleblog.com/2026/"
   ],
-  "checked": null,
-  "notes": null
+  "checked": "2026-11-26",
+  "notes": null,
+  "maturity": "beta",
+  "price": "Free"
 }

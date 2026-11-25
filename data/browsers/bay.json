@@ -4,20 +4,54 @@
   "website": "https://baybrowser.in/",
   "repository": "https://github.com/krishkalaria12/bay",
   "engine": "mixed",
-  "engine_detail": "Chromium (CEF) + WebKit",
+  "engine_detail": "Chromium 154 (CEF 8037, ungoogled patches) with WebKit for streaming sites",
   "platforms": [
-    "macos"
+    "macos",
+    "windows",
+    "linux"
   ],
   "licence": "Apache-2.0",
   "open_source": true,
-  "status": "unknown",
+  "status": "active",
   "listed_in": [
     "awesome-arc-alternatives"
   ],
   "sources": [
     "https://baybrowser.in/",
-    "https://github.com/krishkalaria12/bay"
+    "https://github.com/krishkalaria12/bay",
+    "https://github.com/krishkalaria12/bay/blob/main/README.md",
+    "https://github.com/krishkalaria12/bay/blob/main/BUILDING.md",
+    "https://github.com/krishkalaria12/bay/blob/main/engine/patches/build/engine-lock.json",
+    "https://github.com/krishkalaria12/bay/blob/main/engine/patches/ungoogled-status.tsv",
+    "https://github.com/krishkalaria12/bay/blob/main/docs/engine-cli.md",
+    "https://github.com/krishkalaria12/bay/blob/main/docs/mobile-releasing.md",
+    "https://github.com/krishkalaria12/bay/blob/main/docs/windows-implementation-status.md",
+    "https://github.com/krishkalaria12/bay/blob/main/release-notes/mac/1.0.0.md",
+    "https://github.com/krishkalaria12/bay/blob/main/release-notes/mac/1.1.0.md",
+    "https://github.com/krishkalaria12/bay/blob/main/release-notes/mac/1.2.0.md",
+    "https://github.com/krishkalaria12/bay/blob/main/release-notes/mac/1.3.0.md",
+    "https://github.com/krishkalaria12/bay/blob/main/release-notes/mac/1.4.0.md",
+    "https://github.com/krishkalaria12/bay/blob/main/release-notes/mac/1.5.0.md",
+    "https://github.com/krishkalaria12/bay/blob/main/release-notes/mac/1.5.4.md",
+    "https://github.com/krishkalaria12/bay/blob/main/release-notes/mac/1.6.0.md",
+    "https://github.com/krishkalaria12/bay/blob/main/release-notes/mac/1.7.0.md",
+    "https://github.com/krishkalaria12/bay/blob/main/apps/web/src/pages/index.astro",
+    "https://github.com/krishkalaria12/bay/blob/main/apps/browser/src/components/settings/panes/Search.tsx",
+    "https://github.com/krishkalaria12/bay/blob/main/apps/browser/src/components/settings/panes/Shortcuts.tsx",
+    "https://github.com/krishkalaria12/bay/blob/main/apps/browser/src/components/sidebar/contextMenus.ts",
+    "https://github.com/krishkalaria12/bay/blob/main/apps/browser/src/components/site/translateState.ts",
+    "https://github.com/krishkalaria12/bay/blob/main/apps/browser/src/components/settings/panes/LiveFolders.tsx",
+    "https://github.com/krishkalaria12/bay/blob/main/apps/browser/src/components/settings/definitions.ts",
+    "https://github.com/krishkalaria12/bay/releases",
+    "https://github.com/krishkalaria12/bay/releases/tag/v1.7.0",
+    "https://github.com/krishkalaria12/bay/releases/tag/v1.7.1-nightly.1",
+    "https://github.com/krishkalaria12/bay/releases/tag/windows-v1.0.0",
+    "https://github.com/krishkalaria12/bay/releases/tag/linux-v1.0.0",
+    "https://github.com/krishkalaria12/bay/commits/main",
+    "https://baybrowser.in/download"
   ],
-  "checked": null,
-  "notes": null
+  "checked": "2026-11-26",
+  "notes": null,
+  "maturity": "stable",
+  "price": "Free"
 }

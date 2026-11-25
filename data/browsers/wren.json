@@ -4,20 +4,41 @@
   "website": "https://wrenbrowser.com/",
   "repository": "https://github.com/MultiboxLabs/wren-browser",
   "engine": "chromium",
-  "engine_detail": "Chromium",
+  "engine_detail": "Chromium 158 (Wren Runtime 0.6.1, a native wrapper, not Electron)",
   "platforms": [
     "macos"
   ],
   "licence": "MPL-2.0",
   "open_source": true,
-  "status": "unknown",
+  "status": "active",
   "listed_in": [
     "awesome-arc-alternatives"
   ],
   "sources": [
     "https://wrenbrowser.com/",
-    "https://github.com/MultiboxLabs/wren-browser"
+    "https://github.com/MultiboxLabs/wren-browser",
+    "https://github.com/MultiboxLabs/wren-browser/blob/main/README.md",
+    "https://github.com/MultiboxLabs/wren-browser/blob/main/docs/development.md",
+    "https://github.com/MultiboxLabs/wren-browser/blob/main/docs/publishing.md",
+    "https://github.com/MultiboxLabs/wren-browser/releases",
+    "https://github.com/MultiboxLabs/wren-browser/releases/tag/v0.9.1",
+    "https://github.com/MultiboxLabs/wren-browser/releases/tag/v0.9.0",
+    "https://github.com/MultiboxLabs/wren-browser/blob/main/src/main/peeks/README.md",
+    "https://github.com/MultiboxLabs/wren-browser/blob/main/src/main/pins/README.md",
+    "https://github.com/MultiboxLabs/wren-browser/blob/main/src/main/sidebar/hover.rs",
+    "https://github.com/MultiboxLabs/wren-browser/blob/main/src/renderer/state/library.ts",
+    "https://github.com/MultiboxLabs/wren-browser/blob/main/src/renderer/components/omnibox/field.ts",
+    "https://github.com/MultiboxLabs/wren-browser/blob/main/src/renderer/components/sidebar/tab-alert.tsx",
+    "https://github.com/MultiboxLabs/wren-browser/blob/main/src/renderer/components/tab-switcher/recent.ts",
+    "https://github.com/MultiboxLabs/wren-browser/blob/main/src/main/tabs/previews.rs",
+    "https://github.com/MultiboxLabs/wren-browser/blob/main/src/main/app/commands.rs",
+    "https://github.com/MultiboxLabs/wren-browser/tree/main/src/renderer/components/downloads",
+    "https://github.com/MultiboxLabs/wren-runtime",
+    "https://github.com/MultiboxLabs/flow-browser",
+    "https://github.com/MultiboxLabs/flow-browser"
   ],
-  "checked": null,
-  "notes": null
+  "checked": "2026-11-26",
+  "notes": "Formerly Flow. MultiboxLabs rebuilt Flow and renamed it Wren, first released 14 November 2026.",
+  "maturity": "beta",
+  "price": "Free"
 }

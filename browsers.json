@@ -37,22 +37,45 @@
     "website": "https://arbalete.co/",
     "repository": "https://github.com/amenophis/arbalete",
     "engine": "chromium",
-    "engine_detail": "Chromium (CEF)",
+    "engine_detail": "Chromium 156 (CEF 156.0.7, with proprietary codecs)",
     "platforms": [
       "macos"
     ],
     "licence": "MPL-2.0",
     "open_source": true,
-    "status": "unknown",
+    "status": "active",
     "listed_in": [
       "awesome-arc-alternatives"
     ],
     "sources": [
       "https://arbalete.co/",
-      "https://github.com/amenophis/arbalete"
+      "https://github.com/amenophis/arbalete",
+      "https://github.com/amenophis/arbalete/blob/main/README.md",
+      "https://github.com/amenophis/arbalete/releases",
+      "https://github.com/amenophis/arbalete/releases/tag/v0.8.1",
+      "https://github.com/amenophis/arbalete/releases/tag/v0.8.0",
+      "https://github.com/amenophis/arbalete/releases/tag/v0.7.0",
+      "https://github.com/amenophis/arbalete/releases/tag/v0.6.0",
+      "https://github.com/amenophis/arbalete/releases/tag/v0.4.0",
+      "https://github.com/amenophis/arbalete/commits/main",
+      "https://github.com/amenophis/arbalete/blob/main/app/src/command.rs",
+      "https://github.com/amenophis/arbalete/blob/main/app/src/settings.rs",
+      "https://github.com/amenophis/arbalete/blob/main/Cargo.toml",
+      "https://github.com/amenophis/arbalete/blob/main/.config/mise.toml",
+      "https://github.com/amenophis/arbalete/blob/main/crates/arbalete-core/src/search.rs",
+      "https://github.com/amenophis/arbalete/blob/main/crates/arbalete-core/src/url_routing.rs",
+      "https://github.com/amenophis/arbalete/blob/main/docs/decisions/0001-web-engine.md",
+      "https://github.com/amenophis/arbalete/blob/main/docs/decisions/0006-release-without-notarization.md",
+      "https://github.com/amenophis/arbalete/blob/main/docs/decisions/0007-first-launch-onboarding.md",
+      "https://github.com/amenophis/arbalete/blob/main/docs/decisions/0013-github-folders.md",
+      "https://github.com/amenophis/arbalete/blob/main/docs/decisions/0015-password-import.md",
+      "https://github.com/amenophis/arbalete/blob/main/docs/decisions/0017-applescript.md",
+      "https://chromereleases.googleblog.com/2026/"
     ],
-    "checked": null,
-    "notes": null
+    "checked": "2026-11-26",
+    "notes": null,
+    "maturity": "alpha",
+    "price": "Free"
   },
   {
     "name": "Arc Reborn",
@@ -229,22 +252,56 @@
     "website": "https://baybrowser.in/",
     "repository": "https://github.com/krishkalaria12/bay",
     "engine": "mixed",
-    "engine_detail": "Chromium (CEF) + WebKit",
+    "engine_detail": "Chromium 154 (CEF 8037, ungoogled patches) with WebKit for streaming sites",
     "platforms": [
-      "macos"
+      "macos",
+      "windows",
+      "linux"
     ],
     "licence": "Apache-2.0",
     "open_source": true,
-    "status": "unknown",
+    "status": "active",
     "listed_in": [
       "awesome-arc-alternatives"
     ],
     "sources": [
       "https://baybrowser.in/",
-      "https://github.com/krishkalaria12/bay"
+      "https://github.com/krishkalaria12/bay",
+      "https://github.com/krishkalaria12/bay/blob/main/README.md",
+      "https://github.com/krishkalaria12/bay/blob/main/BUILDING.md",
+      "https://github.com/krishkalaria12/bay/blob/main/engine/patches/build/engine-lock.json",
+      "https://github.com/krishkalaria12/bay/blob/main/engine/patches/ungoogled-status.tsv",
+      "https://github.com/krishkalaria12/bay/blob/main/docs/engine-cli.md",
+      "https://github.com/krishkalaria12/bay/blob/main/docs/mobile-releasing.md",
+      "https://github.com/krishkalaria12/bay/blob/main/docs/windows-implementation-status.md",
+      "https://github.com/krishkalaria12/bay/blob/main/release-notes/mac/1.0.0.md",
+      "https://github.com/krishkalaria12/bay/blob/main/release-notes/mac/1.1.0.md",
+      "https://github.com/krishkalaria12/bay/blob/main/release-notes/mac/1.2.0.md",
+      "https://github.com/krishkalaria12/bay/blob/main/release-notes/mac/1.3.0.md",
+      "https://github.com/krishkalaria12/bay/blob/main/release-notes/mac/1.4.0.md",
+      "https://github.com/krishkalaria12/bay/blob/main/release-notes/mac/1.5.0.md",
+      "https://github.com/krishkalaria12/bay/blob/main/release-notes/mac/1.5.4.md",
+      "https://github.com/krishkalaria12/bay/blob/main/release-notes/mac/1.6.0.md",
+      "https://github.com/krishkalaria12/bay/blob/main/release-notes/mac/1.7.0.md",
+      "https://github.com/krishkalaria12/bay/blob/main/apps/web/src/pages/index.astro",
+      "https://github.com/krishkalaria12/bay/blob/main/apps/browser/src/components/settings/panes/Search.tsx",
+      "https://github.com/krishkalaria12/bay/blob/main/apps/browser/src/components/settings/panes/Shortcuts.tsx",
+      "https://github.com/krishkalaria12/bay/blob/main/apps/browser/src/components/sidebar/contextMenus.ts",
+      "https://github.com/krishkalaria12/bay/blob/main/apps/browser/src/components/site/translateState.ts",
+      "https://github.com/krishkalaria12/bay/blob/main/apps/browser/src/components/settings/panes/LiveFolders.tsx",
+      "https://github.com/krishkalaria12/bay/blob/main/apps/browser/src/components/settings/definitions.ts",
+      "https://github.com/krishkalaria12/bay/releases",
+      "https://github.com/krishkalaria12/bay/releases/tag/v1.7.0",
+      "https://github.com/krishkalaria12/bay/releases/tag/v1.7.1-nightly.1",
+      "https://github.com/krishkalaria12/bay/releases/tag/windows-v1.0.0",
+      "https://github.com/krishkalaria12/bay/releases/tag/linux-v1.0.0",
+      "https://github.com/krishkalaria12/bay/commits/main",
+      "https://baybrowser.in/download"
     ],
-    "checked": null,
-    "notes": null
+    "checked": "2026-11-26",
+    "notes": null,
+    "maturity": "stable",
+    "price": "Free"
   },
   {
     "name": "Blanc",
@@ -338,26 +395,50 @@
     "website": "https://compassbrowser.org/",
     "repository": "https://github.com/Compass-Browser/Compass",
     "engine": "chromium",
-    "engine_detail": "Chromium (fork)",
+    "engine_detail": "Chromium 157 (full Chromium fork)",
     "platforms": [
-      "windows",
       "macos",
+      "windows",
       "linux",
       "ios",
       "android"
     ],
     "licence": "BSD-3-Clause",
     "open_source": true,
-    "status": "unknown",
+    "status": "active",
     "listed_in": [
       "awesome-arc-alternatives"
     ],
     "sources": [
       "https://compassbrowser.org/",
-      "https://github.com/Compass-Browser/Compass"
+      "https://github.com/Compass-Browser/Compass",
+      "https://github.com/Compass-Browser/Compass/blob/main/README.md",
+      "https://github.com/Compass-Browser/Compass/blob/main/COMPARE.md",
+      "https://github.com/Compass-Browser/Compass/commits/main",
+      "https://github.com/Compass-Browser/Compass/releases",
+      "https://github.com/Compass-Browser/Compass/releases/tag/v20261124.1123",
+      "https://github.com/Compass-Browser/Compass/blob/main/docs/design/privacy.md",
+      "https://github.com/Compass-Browser/Compass/blob/main/docs/design/updates.md",
+      "https://github.com/Compass-Browser/Compass/blob/main/docs/design/sidebar.md",
+      "https://github.com/Compass-Browser/Compass/blob/main/docs/design/command-bar.md",
+      "https://github.com/Compass-Browser/Compass/blob/main/docs/design/shortcuts.md",
+      "https://github.com/Compass-Browser/Compass/blob/main/docs/design/spaces.md",
+      "https://github.com/Compass-Browser/Compass/blob/main/docs/design/claude.md",
+      "https://github.com/Compass-Browser/Compass/blob/main/docs/design/ai-sidebar.md",
+      "https://github.com/Compass-Browser/Compass/blob/main/docs/design/widevine.md",
+      "https://github.com/Compass-Browser/Compass/blob/main/docs/design/screenshots.md",
+      "https://github.com/Compass-Browser/Compass/blob/main/docs/design/reader-mode.md",
+      "https://github.com/Compass-Browser/Compass/blob/main/docs/design/extensions.md",
+      "https://github.com/Compass-Browser/Compass/blob/main/docs/design/little-window.md",
+      "https://github.com/Compass-Browser/Compass/blob/main/docs/design/link-routing.md",
+      "https://github.com/Compass-Browser/Compass/blob/main/docs/design/profiles-in-place.md",
+      "https://github.com/Compass-Browser/Compass/blob/main/docs/design/branding.md",
+      "https://github.com/Compass-Browser/Compass/tree/main/docs/design"
     ],
-    "checked": null,
-    "notes": null
+    "checked": "2026-11-26",
+    "notes": null,
+    "maturity": "stable",
+    "price": "Free"
   },
   {
     "name": "Cra",
@@ -624,24 +705,36 @@
     "website": "https://ilobrowser.com/",
     "repository": "https://github.com/MartinPTielemans/ilo",
     "engine": "chromium",
-    "engine_detail": "Chromium (fork)",
+    "engine_detail": "Chromium 157 (ungoogled-chromium), with WebKit for protected video on Mac",
     "platforms": [
-      "windows",
       "macos",
+      "windows",
       "linux"
     ],
     "licence": "GPL-3.0-or-later",
     "open_source": true,
-    "status": "unknown",
+    "status": "active",
     "listed_in": [
       "awesome-arc-alternatives"
     ],
     "sources": [
       "https://ilobrowser.com/",
-      "https://github.com/MartinPTielemans/ilo"
+      "https://github.com/MartinPTielemans/ilo",
+      "https://github.com/MartinPTielemans/ilo/blob/main/README.md",
+      "https://github.com/MartinPTielemans/ilo/releases",
+      "https://github.com/MartinPTielemans/ilo/releases/tag/v0.3.0",
+      "https://github.com/MartinPTielemans/ilo/commits/main",
+      "https://github.com/MartinPTielemans/ilo/blob/main/docs/roadmap.md",
+      "https://github.com/MartinPTielemans/ilo/blob/main/docs/releasing.md",
+      "https://github.com/MartinPTielemans/ilo/blob/main/docs/ux-spec.md",
+      "https://github.com/MartinPTielemans/ilo/blob/main/engine/pins.ini",
+      "https://ilobrowser.com/changelog",
+      "https://chromereleases.googleblog.com/2026/"
     ],
-    "checked": null,
-    "notes": null
+    "checked": "2026-11-26",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Free"
   },
   {
     "name": "Lilo",
@@ -789,23 +882,56 @@
     "website": "https://openarch.app/",
     "repository": "https://github.com/dpfaffenbauer/OpenArch",
     "engine": "mixed",
-    "engine_detail": "Chromium (fork) + WebKit",
+    "engine_detail": "Chromium 158 (Chrome's own framework, CEF dropped in 0.4.0), WebKit for DRM streaming",
     "platforms": [
       "macos",
       "ios"
     ],
     "licence": "MIT",
     "open_source": true,
-    "status": "unknown",
+    "status": "active",
     "listed_in": [
       "awesome-arc-alternatives"
     ],
     "sources": [
       "https://openarch.app/",
-      "https://github.com/dpfaffenbauer/OpenArch"
+      "https://github.com/dpfaffenbauer/OpenArch",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/README.md",
+      "https://github.com/dpfaffenbauer/OpenArch/releases/tag/v0.4.0",
+      "https://github.com/dpfaffenbauer/OpenArch/releases",
+      "https://github.com/dpfaffenbauer/OpenArch/commits/main",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/.github/workflows/build.yml",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs/app-store.md",
+      "https://docs.openarch.app",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/start/install.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/reference/limitations.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/reference/settings.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/browsing/chrome.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/browsing/links.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/browsing/site-controls.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/sidebar/tabs.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/sidebar/basics.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/browsing/windows.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/reference/shortcuts.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/reference/data-and-privacy.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/sidebar/spaces.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/sidebar/cards.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/sidebar/appearance.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/sidebar/live-folders.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/browsing/command-bar.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/browsing/peek.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/browsing/library.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/start/import-from-arc.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/start/import.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/ai/page-chat.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/ai/ai-control.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/ai/tidy-tabs.md",
+      "https://github.com/dpfaffenbauer/OpenArch/blob/main/docs-site/src/content/docs/iphone-ipad.md"
     ],
-    "checked": null,
-    "notes": null
+    "checked": "2026-11-26",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Free"
   },
   {
     "name": "Ora",
@@ -988,22 +1114,52 @@
     "website": "https://kagerou.glass/refrax/",
     "repository": "https://github.com/kageroumado/refrax-browser",
     "engine": "mixed",
-    "engine_detail": "WebKit + Chromium",
+    "engine_detail": "WebKit (WKWebView) with a Chromium 155 option (ungoogled-chromium)",
     "platforms": [
       "macos"
     ],
     "licence": "GPL-3.0",
     "open_source": true,
-    "status": "unknown",
+    "status": "active",
     "listed_in": [
       "awesome-arc-alternatives"
     ],
     "sources": [
       "https://kagerou.glass/refrax/",
-      "https://github.com/kageroumado/refrax-browser"
+      "https://github.com/kageroumado/refrax-browser",
+      "https://github.com/kageroumado/refrax-browser/blob/main/README.md",
+      "https://github.com/kageroumado/refrax-browser/blob/main/REFERENCE.md",
+      "https://github.com/kageroumado/refrax-browser/releases",
+      "https://github.com/kageroumado/refrax-browser/releases/tag/v0.41.1",
+      "https://github.com/kageroumado/refrax-browser/releases/tag/v0.41.0",
+      "https://github.com/kageroumado/refrax-browser/releases/tag/v0.40.1",
+      "https://github.com/kageroumado/refrax-browser/releases/tag/v0.40.0",
+      "https://github.com/kageroumado/refrax-browser/releases/tag/v0.39.0",
+      "https://github.com/kageroumado/refrax-browser/releases/tag/v0.38.0",
+      "https://github.com/kageroumado/refrax-browser/releases/tag/v0.37.0",
+      "https://github.com/kageroumado/refrax-browser/releases/tag/v0.36.0",
+      "https://github.com/kageroumado/refrax-browser/releases/tag/v0.35.0",
+      "https://github.com/kageroumado/refrax-browser/releases/tag/v0.34",
+      "https://github.com/kageroumado/refrax-browser/releases/tag/v0.30",
+      "https://github.com/kageroumado/refrax-browser/releases/tag/v0.29",
+      "https://github.com/kageroumado/refrax-browser/releases/tag/v0.28",
+      "https://github.com/kageroumado/refrax-browser/blob/main/Scripts/forge/ungoogled-macos.txt",
+      "https://github.com/kageroumado/refrax-browser/blob/main/Scripts/forge/forge",
+      "https://github.com/kageroumado/refrax-browser/blob/main/Scripts/forge/publish-engine.sh",
+      "https://github.com/kageroumado/refrax-browser/blob/main/Refrax/Core/Sync/SyncCoordinator.swift",
+      "https://github.com/kageroumado/refrax-browser/blob/main/Refrax/Core/Managers/Translation/TranslationManager.swift",
+      "https://github.com/kageroumado/refrax-browser/blob/main/Refrax/Core/Managers/FocusModeManager.swift",
+      "https://github.com/kageroumado/refrax-browser/blob/main/Refrax/Core/Managers/UserStyles/UserStyleManager.swift",
+      "https://github.com/kageroumado/refrax-browser/blob/main/Refrax/Features/Import/Services/ComprehensiveImporter.swift",
+      "https://github.com/kageroumado/refrax-browser/blob/main/Refrax/Core/Managers/TabSwitcherManager.swift",
+      "https://github.com/kageroumado/refrax-browser/blob/main/Refrax/Core/Services/DarkModeScript.swift",
+      "https://github.com/kageroumado/refrax-browser/commits/main",
+      "https://kagerou.glass/get/refrax"
     ],
-    "checked": null,
-    "notes": null
+    "checked": "2026-11-26",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Free"
   },
   {
     "name": "Sailfish",
@@ -1286,22 +1442,43 @@
     "website": "https://wrenbrowser.com/",
     "repository": "https://github.com/MultiboxLabs/wren-browser",
     "engine": "chromium",
-    "engine_detail": "Chromium",
+    "engine_detail": "Chromium 158 (Wren Runtime 0.6.1, a native wrapper, not Electron)",
     "platforms": [
       "macos"
     ],
     "licence": "MPL-2.0",
     "open_source": true,
-    "status": "unknown",
+    "status": "active",
     "listed_in": [
       "awesome-arc-alternatives"
     ],
     "sources": [
       "https://wrenbrowser.com/",
-      "https://github.com/MultiboxLabs/wren-browser"
+      "https://github.com/MultiboxLabs/wren-browser",
+      "https://github.com/MultiboxLabs/wren-browser/blob/main/README.md",
+      "https://github.com/MultiboxLabs/wren-browser/blob/main/docs/development.md",
+      "https://github.com/MultiboxLabs/wren-browser/blob/main/docs/publishing.md",
+      "https://github.com/MultiboxLabs/wren-browser/releases",
+      "https://github.com/MultiboxLabs/wren-browser/releases/tag/v0.9.1",
+      "https://github.com/MultiboxLabs/wren-browser/releases/tag/v0.9.0",
+      "https://github.com/MultiboxLabs/wren-browser/blob/main/src/main/peeks/README.md",
+      "https://github.com/MultiboxLabs/wren-browser/blob/main/src/main/pins/README.md",
+      "https://github.com/MultiboxLabs/wren-browser/blob/main/src/main/sidebar/hover.rs",
+      "https://github.com/MultiboxLabs/wren-browser/blob/main/src/renderer/state/library.ts",
+      "https://github.com/MultiboxLabs/wren-browser/blob/main/src/renderer/components/omnibox/field.ts",
+      "https://github.com/MultiboxLabs/wren-browser/blob/main/src/renderer/components/sidebar/tab-alert.tsx",
+      "https://github.com/MultiboxLabs/wren-browser/blob/main/src/renderer/components/tab-switcher/recent.ts",
+      "https://github.com/MultiboxLabs/wren-browser/blob/main/src/main/tabs/previews.rs",
+      "https://github.com/MultiboxLabs/wren-browser/blob/main/src/main/app/commands.rs",
+      "https://github.com/MultiboxLabs/wren-browser/tree/main/src/renderer/components/downloads",
+      "https://github.com/MultiboxLabs/wren-runtime",
+      "https://github.com/MultiboxLabs/flow-browser",
+      "https://github.com/MultiboxLabs/flow-browser"
     ],
-    "checked": null,
-    "notes": null
+    "checked": "2026-11-26",
+    "notes": "Formerly Flow. MultiboxLabs rebuilt Flow and renamed it Wren, first released 14 November 2026.",
+    "maturity": "beta",
+    "price": "Free"
   },
   {
     "name": "Xelium",

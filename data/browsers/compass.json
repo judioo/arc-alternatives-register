@@ -4,24 +4,48 @@
   "website": "https://compassbrowser.org/",
   "repository": "https://github.com/Compass-Browser/Compass",
   "engine": "chromium",
-  "engine_detail": "Chromium (fork)",
+  "engine_detail": "Chromium 157 (full Chromium fork)",
   "platforms": [
-    "windows",
     "macos",
+    "windows",
     "linux",
     "ios",
     "android"
   ],
   "licence": "BSD-3-Clause",
   "open_source": true,
-  "status": "unknown",
+  "status": "active",
   "listed_in": [
     "awesome-arc-alternatives"
   ],
   "sources": [
     "https://compassbrowser.org/",
-    "https://github.com/Compass-Browser/Compass"
+    "https://github.com/Compass-Browser/Compass",
+    "https://github.com/Compass-Browser/Compass/blob/main/README.md",
+    "https://github.com/Compass-Browser/Compass/blob/main/COMPARE.md",
+    "https://github.com/Compass-Browser/Compass/commits/main",
+    "https://github.com/Compass-Browser/Compass/releases",
+    "https://github.com/Compass-Browser/Compass/releases/tag/v20261124.1123",
+    "https://github.com/Compass-Browser/Compass/blob/main/docs/design/privacy.md",
+    "https://github.com/Compass-Browser/Compass/blob/main/docs/design/updates.md",
+    "https://github.com/Compass-Browser/Compass/blob/main/docs/design/sidebar.md",
+    "https://github.com/Compass-Browser/Compass/blob/main/docs/design/command-bar.md",
+    "https://github.com/Compass-Browser/Compass/blob/main/docs/design/shortcuts.md",
+    "https://github.com/Compass-Browser/Compass/blob/main/docs/design/spaces.md",
+    "https://github.com/Compass-Browser/Compass/blob/main/docs/design/claude.md",
+    "https://github.com/Compass-Browser/Compass/blob/main/docs/design/ai-sidebar.md",
+    "https://github.com/Compass-Browser/Compass/blob/main/docs/design/widevine.md",
+    "https://github.com/Compass-Browser/Compass/blob/main/docs/design/screenshots.md",
+    "https://github.com/Compass-Browser/Compass/blob/main/docs/design/reader-mode.md",
+    "https://github.com/Compass-Browser/Compass/blob/main/docs/design/extensions.md",
+    "https://github.com/Compass-Browser/Compass/blob/main/docs/design/little-window.md",
+    "https://github.com/Compass-Browser/Compass/blob/main/docs/design/link-routing.md",
+    "https://github.com/Compass-Browser/Compass/blob/main/docs/design/profiles-in-place.md",
+    "https://github.com/Compass-Browser/Compass/blob/main/docs/design/branding.md",
+    "https://github.com/Compass-Browser/Compass/tree/main/docs/design"
   ],
-  "checked": null,
-  "notes": null
+  "checked": "2026-11-26",
+  "notes": null,
+  "maturity": "stable",
+  "price": "Free"
 }

@@ -301,14 +301,6 @@
       "website_as_seen": null,
       "seen_on": "https://byearc.com/compare/",
       "seen": "2026-11-25"
-    },
-    {
-      "name": "Flow",
-      "engine_as_seen": "Chromium (Electron)",
-      "website_as_seen": "https://flow-browser.com",
-      "seen_on": "https://github.com/MultiboxLabs/flow-browser",
-      "seen": "2026-11-25",
-      "note": "Same maker as Wren (MultiboxLabs). Check whether Wren replaced it."
     }
   ]
 }
