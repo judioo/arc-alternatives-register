@@ -1,0 +1,24 @@
+{
+  "name": "Search",
+  "slug": "search",
+  "website": "https://searchbrowser.app/",
+  "repository": "https://github.com/driceroland/Search",
+  "engine": "webkit",
+  "engine_detail": "WebKit",
+  "platforms": [
+    "macos",
+    "ios"
+  ],
+  "licence": "MIT",
+  "open_source": true,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://searchbrowser.app/",
+    "https://github.com/driceroland/Search"
+  ],
+  "checked": null,
+  "notes": null
+}

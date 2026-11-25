@@ -1,0 +1,33 @@
+{
+  "name": "Yab",
+  "slug": "yab",
+  "website": "https://yetanotherbrowser.com/",
+  "repository": "https://github.com/yetanotherbrowser/yab",
+  "engine": "mixed",
+  "engine_detail": "WebKit + Chromium",
+  "platforms": [
+    "macos",
+    "ios",
+    "android"
+  ],
+  "licence": "Apache-2.0",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://yetanotherbrowser.com/",
+    "https://github.com/yetanotherbrowser/yab",
+    "https://yetanotherbrowser.com",
+    "https://yetanotherbrowser.com/changelog",
+    "https://yetanotherbrowser.com/changelog/0.53",
+    "https://yetanotherbrowser.com/changelog/0.46",
+    "https://yetanotherbrowser.com/changelog/0.47",
+    "https://yetanotherbrowser.com/changelog/0.48"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "beta",
+  "price": "Free"
+}

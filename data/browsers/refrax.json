@@ -1,0 +1,23 @@
+{
+  "name": "Refrax",
+  "slug": "refrax",
+  "website": "https://kagerou.glass/refrax/",
+  "repository": "https://github.com/kageroumado/refrax-browser",
+  "engine": "mixed",
+  "engine_detail": "WebKit + Chromium",
+  "platforms": [
+    "macos"
+  ],
+  "licence": "GPL-3.0",
+  "open_source": true,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://kagerou.glass/refrax/",
+    "https://github.com/kageroumado/refrax-browser"
+  ],
+  "checked": null,
+  "notes": null
+}

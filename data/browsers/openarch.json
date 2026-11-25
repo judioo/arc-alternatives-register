@@ -1,0 +1,24 @@
+{
+  "name": "OpenArch",
+  "slug": "openarch",
+  "website": "https://openarch.app/",
+  "repository": "https://github.com/dpfaffenbauer/OpenArch",
+  "engine": "mixed",
+  "engine_detail": "Chromium (fork) + WebKit",
+  "platforms": [
+    "macos",
+    "ios"
+  ],
+  "licence": "MIT",
+  "open_source": true,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://openarch.app/",
+    "https://github.com/dpfaffenbauer/OpenArch"
+  ],
+  "checked": null,
+  "notes": null
+}

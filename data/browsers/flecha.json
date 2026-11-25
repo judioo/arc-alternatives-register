@@ -1,0 +1,30 @@
+{
+  "name": "Flecha",
+  "slug": "flecha",
+  "website": "https://flecha.dev/",
+  "repository": "https://github.com/lucianodiisouza/flecha-browser",
+  "engine": "chromium",
+  "engine_detail": "Chromium (fork)",
+  "platforms": [
+    "macos"
+  ],
+  "licence": "MIT",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://flecha.dev/",
+    "https://github.com/lucianodiisouza/flecha-browser",
+    "https://github.com/lucianodiisouza/flecha-browser/releases/tag/v0.1.3",
+    "https://flecha.dev/docs/",
+    "https://github.com/lucianodiisouza/flecha-browser/blob/main/chromium/CHROMIUM_VERSION",
+    "https://chromereleases.googleblog.com/2026/",
+    "https://github.com/lucianodiisouza/flecha-browser/releases/tag/v0.1.4"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "alpha",
+  "price": "Free"
+}

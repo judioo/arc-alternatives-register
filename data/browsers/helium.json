@@ -1,0 +1,31 @@
+{
+  "name": "Helium",
+  "slug": "helium",
+  "website": "https://helium.computer/",
+  "repository": "https://github.com/imputnet/helium",
+  "engine": "chromium",
+  "engine_detail": "Chromium (fork)",
+  "platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "licence": "GPL-3.0",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://helium.computer/",
+    "https://github.com/imputnet/helium",
+    "https://github.com/imputnet/helium/releases/tag/0.21.3",
+    "https://github.com/imputnet/helium-macos/releases/tag/0.21.3.1",
+    "https://www.mintlify.com/imputnet/helium/features/privacy",
+    "https://github.com/imputnet/helium/blob/main/patches/helium/core/disable-reading-mode-omnibox-chip.patch"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "beta",
+  "price": "Free"
+}

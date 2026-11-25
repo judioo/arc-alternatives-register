@@ -1,0 +1,22 @@
+{
+  "name": "Click",
+  "slug": "click",
+  "website": "https://clickbrowser.app/",
+  "repository": null,
+  "engine": "webkit",
+  "engine_detail": "WebKit",
+  "platforms": [
+    "macos"
+  ],
+  "licence": null,
+  "open_source": null,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://clickbrowser.app/"
+  ],
+  "checked": null,
+  "notes": null
+}

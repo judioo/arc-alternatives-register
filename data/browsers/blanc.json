@@ -1,0 +1,33 @@
+{
+  "name": "Blanc",
+  "slug": "blanc",
+  "website": "https://blanc.day/",
+  "repository": "https://github.com/bnfy/blanc",
+  "engine": "chromium",
+  "engine_detail": "Chromium (Electron)",
+  "platforms": [
+    "windows",
+    "macos",
+    "linux",
+    "ios"
+  ],
+  "licence": "MIT",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://blanc.day/",
+    "https://github.com/bnfy/blanc",
+    "https://github.com/bnfy/blanc/blob/main/docs/user-guide.md",
+    "https://github.com/bnfy/blanc/releases/tag/v1.49.0",
+    "https://blanc.day",
+    "https://releases.electronjs.org/",
+    "https://github.com/bnfy/blanc/releases/tag/v1.43.0"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "stable",
+  "price": "Free (optional Patron $4/mo or $30/yr)"
+}

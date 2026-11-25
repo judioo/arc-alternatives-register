@@ -1,0 +1,23 @@
+{
+  "name": "Point",
+  "slug": "point",
+  "website": "https://baculinivan-web.github.io/point-browser-landing/",
+  "repository": "https://github.com/baculinivan-web/Point",
+  "engine": "webkit",
+  "engine_detail": "WebKit",
+  "platforms": [
+    "macos"
+  ],
+  "licence": null,
+  "open_source": null,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://baculinivan-web.github.io/point-browser-landing/",
+    "https://github.com/baculinivan-web/Point"
+  ],
+  "checked": null,
+  "notes": null
+}

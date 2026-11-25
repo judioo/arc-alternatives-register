@@ -1,0 +1,23 @@
+{
+  "name": "Firn",
+  "slug": "firn",
+  "website": "https://firnbrowser.com/",
+  "repository": "https://github.com/dwurgy/firn",
+  "engine": "webkit",
+  "engine_detail": "WebKit",
+  "platforms": [
+    "macos"
+  ],
+  "licence": "MPL-2.0",
+  "open_source": true,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://firnbrowser.com/",
+    "https://github.com/dwurgy/firn"
+  ],
+  "checked": null,
+  "notes": null
+}

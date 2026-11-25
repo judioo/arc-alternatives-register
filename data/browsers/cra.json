@@ -1,0 +1,31 @@
+{
+  "name": "Cra",
+  "slug": "cra",
+  "website": "https://crabrowser.app/",
+  "repository": "https://github.com/VictorKildahl/cra",
+  "engine": "chromium",
+  "engine_detail": "Chromium (CEF)",
+  "platforms": [
+    "macos",
+    "ios"
+  ],
+  "licence": "MIT",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://crabrowser.app/",
+    "https://github.com/VictorKildahl/cra",
+    "https://crabrowser.app",
+    "https://github.com/VictorKildahl/cra/releases",
+    "https://github.com/VictorKildahl/cra/blob/main/docs/arc-parity.md",
+    "https://github.com/VictorKildahl/cra/blob/main/docs/release.md",
+    "https://github.com/VictorKildahl/cra/releases/tag/v0.1.44"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "beta",
+  "price": "Free"
+}

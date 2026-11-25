@@ -1,0 +1,23 @@
+{
+  "name": "Orion",
+  "slug": "orion",
+  "website": "https://orionbrowser.com/",
+  "repository": null,
+  "engine": "webkit",
+  "engine_detail": "WebKit",
+  "platforms": [
+    "macos",
+    "ios"
+  ],
+  "licence": "Proprietary",
+  "open_source": false,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://orionbrowser.com/"
+  ],
+  "checked": null,
+  "notes": null
+}

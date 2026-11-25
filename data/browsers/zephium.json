@@ -1,0 +1,24 @@
+{
+  "name": "Zephium",
+  "slug": "zephium",
+  "website": "https://zephium.app",
+  "repository": "https://github.com/zephium-browser/Zephium",
+  "engine": "mixed",
+  "engine_detail": "WebKit (macOS) + Chromium (Windows)",
+  "platforms": [
+    "windows",
+    "macos"
+  ],
+  "licence": "MPL-2.0",
+  "open_source": true,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://zephium.app",
+    "https://github.com/zephium-browser/Zephium"
+  ],
+  "checked": null,
+  "notes": null
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Zigzag",
+  "slug": "zigzag",
+  "website": "https://zigzagbrowser.com/",
+  "repository": "https://github.com/ZigaoWang/zigzag",
+  "engine": "webkit",
+  "engine_detail": "WebKit",
+  "platforms": [
+    "macos"
+  ],
+  "licence": "Apache-2.0",
+  "open_source": true,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://zigzagbrowser.com/",
+    "https://github.com/ZigaoWang/zigzag"
+  ],
+  "checked": null,
+  "notes": null
+}

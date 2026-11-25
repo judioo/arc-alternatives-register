@@ -1,0 +1,20 @@
+{
+  "name": "Argus",
+  "slug": "argus",
+  "website": "https://argusbrowser.io/",
+  "repository": null,
+  "engine": "webkit",
+  "engine_detail": "WebKit (unconfirmed)",
+  "platforms": [],
+  "licence": "Proprietary",
+  "open_source": false,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://argusbrowser.io/"
+  ],
+  "checked": null,
+  "notes": null
+}

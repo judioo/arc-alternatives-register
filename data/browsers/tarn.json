@@ -1,0 +1,34 @@
+{
+  "name": "Tarn",
+  "slug": "tarn",
+  "website": "https://tarnbrowser.com/",
+  "repository": "https://github.com/Quavon-dev/tarn-browser",
+  "engine": "mixed",
+  "engine_detail": "WebKit, Chromium",
+  "platforms": [
+    "macos",
+    "windows",
+    "linux",
+    "ios",
+    "android"
+  ],
+  "licence": "GPL-3.0",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://tarnbrowser.com/",
+    "https://github.com/Quavon-dev/tarn-browser",
+    "https://github.com/Quavon-dev/tarn-browser/blob/main/README.md",
+    "https://github.com/Quavon-dev/tarn-browser/blob/main/CHANGELOG.md",
+    "https://github.com/Quavon-dev/tarn-browser/releases",
+    "https://github.com/Quavon-dev/tarn-browser/releases/tag/v0.1.6",
+    "https://github.com/Quavon-dev/tarn-browser/blob/main/PRIVACY.md"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "alpha",
+  "price": "Free"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Arbalete",
+  "slug": "arbalete",
+  "website": "https://arbalete.co/",
+  "repository": "https://github.com/amenophis/arbalete",
+  "engine": "chromium",
+  "engine_detail": "Chromium (CEF)",
+  "platforms": [
+    "macos"
+  ],
+  "licence": "MPL-2.0",
+  "open_source": true,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://arbalete.co/",
+    "https://github.com/amenophis/arbalete"
+  ],
+  "checked": null,
+  "notes": null
+}

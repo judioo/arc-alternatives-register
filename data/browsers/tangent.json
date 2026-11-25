@@ -1,0 +1,20 @@
+{
+  "name": "Tangent",
+  "slug": "tangent",
+  "website": "https://tangent.place/",
+  "repository": null,
+  "engine": "chromium",
+  "engine_detail": "Chromium (fork)",
+  "platforms": [],
+  "licence": null,
+  "open_source": null,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://tangent.place/"
+  ],
+  "checked": null,
+  "notes": null
+}

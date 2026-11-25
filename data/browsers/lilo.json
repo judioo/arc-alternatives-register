@@ -1,0 +1,23 @@
+{
+  "name": "Lilo",
+  "slug": "lilo",
+  "website": "https://getlilo.app/",
+  "repository": "https://github.com/Alexays/Lilo",
+  "engine": "webkit",
+  "engine_detail": "WebKit",
+  "platforms": [
+    "macos"
+  ],
+  "licence": "MIT",
+  "open_source": true,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://getlilo.app/",
+    "https://github.com/Alexays/Lilo"
+  ],
+  "checked": null,
+  "notes": null
+}

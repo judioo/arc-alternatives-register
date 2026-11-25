@@ -1,0 +1,27 @@
+{
+  "name": "Compass",
+  "slug": "compass",
+  "website": "https://compassbrowser.org/",
+  "repository": "https://github.com/Compass-Browser/Compass",
+  "engine": "chromium",
+  "engine_detail": "Chromium (fork)",
+  "platforms": [
+    "windows",
+    "macos",
+    "linux",
+    "ios",
+    "android"
+  ],
+  "licence": "BSD-3-Clause",
+  "open_source": true,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://compassbrowser.org/",
+    "https://github.com/Compass-Browser/Compass"
+  ],
+  "checked": null,
+  "notes": null
+}

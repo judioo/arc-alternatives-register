@@ -1,0 +1,1532 @@
+[
+  {
+    "name": "Acira",
+    "slug": "acira",
+    "website": "https://acirabrowser.com/",
+    "repository": "https://github.com/Acira-dev/AciraBrowser",
+    "engine": "chromium",
+    "engine_detail": "Chromium (Electron)",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "licence": "AGPL-3.0",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://acirabrowser.com/",
+      "https://github.com/Acira-dev/AciraBrowser",
+      "https://github.com/Acira-dev/AciraBrowserUpdates/releases",
+      "https://acirabrowser.com/docs/",
+      "https://acirabrowser.com/docs/limits/",
+      "https://acirabrowser.com/docs/sidebar/",
+      "https://releases.electronjs.org/"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Free"
+  },
+  {
+    "name": "Arbalete",
+    "slug": "arbalete",
+    "website": "https://arbalete.co/",
+    "repository": "https://github.com/amenophis/arbalete",
+    "engine": "chromium",
+    "engine_detail": "Chromium (CEF)",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "MPL-2.0",
+    "open_source": true,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://arbalete.co/",
+      "https://github.com/amenophis/arbalete"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Arc Reborn",
+    "slug": "arc-reborn",
+    "website": "https://www.arc-reborn.com/",
+    "repository": "https://github.com/tiff75009/arcreborn",
+    "engine": "chromium",
+    "engine_detail": "Chromium (CEF)",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "MPL-2.0",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://www.arc-reborn.com/",
+      "https://github.com/tiff75009/arcreborn",
+      "https://github.com/tiff75009/arcreborn/releases",
+      "https://github.com/tiff75009/arcreborn/blob/main/docs/development/architecture.md",
+      "https://github.com/tiff75009/arcreborn/releases/tag/v1.3.0",
+      "https://github.com/tiff75009/arcreborn/blob/main/native/Sources/Localization.swift"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Free"
+  },
+  {
+    "name": "Arcium",
+    "slug": "arcium",
+    "website": null,
+    "repository": "https://github.com/dr-baker/Arcium-macOS",
+    "engine": "chromium",
+    "engine_detail": "Chromium (fork)",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "GPL-3.0",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://github.com/dr-baker/Arcium-macOS",
+      "https://github.com/dr-baker/Arcium-macOS/blob/main/docs/preview-release.md",
+      "https://github.com/dr-baker/Arcium-macOS/blob/main/CHANGELOG.md",
+      "https://github.com/dr-baker/Arcium-macOS/blob/main/docs/import-from-arc.md",
+      "https://github.com/dr-baker/Arcium-macOS/releases/tag/0.2.0-preview.1",
+      "https://github.com/dr-baker/Arcium-macOS/blob/main/docs/feature-settings-audit.md"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "alpha",
+    "price": "Free"
+  },
+  {
+    "name": "Ardia",
+    "slug": "ardia",
+    "website": "https://ardia.dev/",
+    "repository": "https://github.com/ardia-browser/ardia",
+    "engine": "mixed",
+    "engine_detail": "Chromium + WebKit",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "GPL-3.0",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://ardia.dev/",
+      "https://github.com/ardia-browser/ardia",
+      "https://github.com/mantrakp04/ardia",
+      "https://ardia.dev",
+      "https://ardia.dev/release-notes",
+      "https://github.com/mantrakp04/ardia/blob/main/docs/dia-feature-parity.md",
+      "https://github.com/mantrakp04/ardia/releases/tag/v0.2.46",
+      "https://github.com/ardia-browser/ardia/releases/tag/v0.2.47-nightly.2"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Free"
+  },
+  {
+    "name": "Argus",
+    "slug": "argus",
+    "website": "https://argusbrowser.io/",
+    "repository": null,
+    "engine": "webkit",
+    "engine_detail": "WebKit (unconfirmed)",
+    "platforms": [],
+    "licence": "Proprietary",
+    "open_source": false,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://argusbrowser.io/"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Arx",
+    "slug": "arx",
+    "website": "https://arxbrowser.net/",
+    "repository": "https://github.com/capturecontext/arx-browser",
+    "engine": "chromium",
+    "engine_detail": "Chromium (fork)",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "GPL-3.0",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://arxbrowser.net/",
+      "https://github.com/capturecontext/arx-browser",
+      "https://capturecontext.dev/apps/arx",
+      "https://github.com/CaptureContext/arx-browser",
+      "https://github.com/CaptureContext/arx-browser/releases/tag/0.1.0",
+      "https://github.com/CaptureContext/arx-browser/blob/main/DEVELOPMENT.md",
+      "https://arxbrowser.net/changelog"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Free"
+  },
+  {
+    "name": "Aside",
+    "slug": "aside",
+    "website": "https://aside.com/",
+    "repository": null,
+    "engine": "chromium",
+    "engine_detail": "Chromium (fork)",
+    "platforms": [
+      "windows",
+      "macos"
+    ],
+    "licence": "Proprietary",
+    "open_source": false,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://aside.com/",
+      "https://aside.com/pricing",
+      "https://docs.aside.com/changelog/native",
+      "https://piunikaweb.com/2026/09/19/aside-browser-built-in-adblocker/",
+      "https://piunikaweb.com/2026/09/23/aside-browser-new-tabs-appear-instantly-without-wait/",
+      "https://piunikaweb.com/2026/07/28/aside-browser-update-profiles-tabs-sync/"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "stable",
+    "price": "Freemium"
+  },
+  {
+    "name": "Bay",
+    "slug": "bay",
+    "website": "https://baybrowser.in/",
+    "repository": "https://github.com/krishkalaria12/bay",
+    "engine": "mixed",
+    "engine_detail": "Chromium (CEF) + WebKit",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "Apache-2.0",
+    "open_source": true,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://baybrowser.in/",
+      "https://github.com/krishkalaria12/bay"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Blanc",
+    "slug": "blanc",
+    "website": "https://blanc.day/",
+    "repository": "https://github.com/bnfy/blanc",
+    "engine": "chromium",
+    "engine_detail": "Chromium (Electron)",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux",
+      "ios"
+    ],
+    "licence": "MIT",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://blanc.day/",
+      "https://github.com/bnfy/blanc",
+      "https://github.com/bnfy/blanc/blob/main/docs/user-guide.md",
+      "https://github.com/bnfy/blanc/releases/tag/v1.49.0",
+      "https://blanc.day",
+      "https://releases.electronjs.org/",
+      "https://github.com/bnfy/blanc/releases/tag/v1.43.0"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "stable",
+    "price": "Free (optional Patron $4/mo or $30/yr)"
+  },
+  {
+    "name": "camber",
+    "slug": "camber",
+    "website": "https://www.yuvrajangadsingh.com/camber",
+    "repository": "https://github.com/yuvrajangadsingh/camber",
+    "engine": "chromium",
+    "engine_detail": "Chromium (Electron)",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "licence": "GPL-3.0",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://www.yuvrajangadsingh.com/camber",
+      "https://github.com/yuvrajangadsingh/camber",
+      "https://github.com/yuvrajangadsingh/camber/blob/main/CHANGELOG.md",
+      "https://github.com/yuvrajangadsingh/camber/releases",
+      "https://releases.electronjs.org/",
+      "https://github.com/yuvrajangadsingh/camber/releases/tag/v0.5.0"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Free"
+  },
+  {
+    "name": "Click",
+    "slug": "click",
+    "website": "https://clickbrowser.app/",
+    "repository": null,
+    "engine": "webkit",
+    "engine_detail": "WebKit",
+    "platforms": [
+      "macos"
+    ],
+    "licence": null,
+    "open_source": null,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://clickbrowser.app/"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Compass",
+    "slug": "compass",
+    "website": "https://compassbrowser.org/",
+    "repository": "https://github.com/Compass-Browser/Compass",
+    "engine": "chromium",
+    "engine_detail": "Chromium (fork)",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux",
+      "ios",
+      "android"
+    ],
+    "licence": "BSD-3-Clause",
+    "open_source": true,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://compassbrowser.org/",
+      "https://github.com/Compass-Browser/Compass"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Cra",
+    "slug": "cra",
+    "website": "https://crabrowser.app/",
+    "repository": "https://github.com/VictorKildahl/cra",
+    "engine": "chromium",
+    "engine_detail": "Chromium (CEF)",
+    "platforms": [
+      "macos",
+      "ios"
+    ],
+    "licence": "MIT",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://crabrowser.app/",
+      "https://github.com/VictorKildahl/cra",
+      "https://crabrowser.app",
+      "https://github.com/VictorKildahl/cra/releases",
+      "https://github.com/VictorKildahl/cra/blob/main/docs/arc-parity.md",
+      "https://github.com/VictorKildahl/cra/blob/main/docs/release.md",
+      "https://github.com/VictorKildahl/cra/releases/tag/v0.1.44"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Free"
+  },
+  {
+    "name": "Crest",
+    "slug": "crest",
+    "website": "https://crestbrowser.com/",
+    "repository": "https://github.com/crest-browser/Crest",
+    "engine": "mixed",
+    "engine_detail": "Chromium + WebKit",
+    "platforms": [
+      "macos",
+      "ios"
+    ],
+    "licence": "MPL-2.0",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://crestbrowser.com/",
+      "https://github.com/crest-browser/Crest",
+      "https://github.com/pauljoda/Crest",
+      "https://github.com/pauljoda/Crest/blob/main/CHANGELOG.md",
+      "https://github.com/pauljoda/Crest/releases",
+      "https://chromereleases.googleblog.com/2026/",
+      "https://github.com/pauljoda/Crest/releases/tag/v0.10.24"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Free"
+  },
+  {
+    "name": "Darni",
+    "slug": "darni",
+    "website": "https://darni.imara.ae/",
+    "repository": "https://github.com/judioo/darni",
+    "engine": "chromium",
+    "engine_detail": "Chromium (fork)",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "Apache-2.0",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://darni.imara.ae/",
+      "https://github.com/judioo/darni",
+      "https://darni.imara.ae/releases"
+    ],
+    "checked": "2026-11-26",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Free"
+  },
+  {
+    "name": "Dia",
+    "slug": "dia",
+    "website": "https://www.diabrowser.com/",
+    "repository": null,
+    "engine": "chromium",
+    "engine_detail": "Chromium",
+    "platforms": [
+      "windows",
+      "macos"
+    ],
+    "licence": "Proprietary",
+    "open_source": false,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://www.diabrowser.com/",
+      "https://www.diabrowser.com/release-notes",
+      "https://arc.net/",
+      "https://supasidebar.com/blog/arc-browser-to-dia",
+      "https://alternativeto.net/news/2026/8/dia-browser-lets-you-swipe-between-profiles-and-import-from-arc-and-chrome/",
+      "https://makerstack.co/reviews/dia-review/"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "stable",
+    "price": "Freemium"
+  },
+  {
+    "name": "Firn",
+    "slug": "firn",
+    "website": "https://firnbrowser.com/",
+    "repository": "https://github.com/dwurgy/firn",
+    "engine": "webkit",
+    "engine_detail": "WebKit",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "MPL-2.0",
+    "open_source": true,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://firnbrowser.com/",
+      "https://github.com/dwurgy/firn"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Flecha",
+    "slug": "flecha",
+    "website": "https://flecha.dev/",
+    "repository": "https://github.com/lucianodiisouza/flecha-browser",
+    "engine": "chromium",
+    "engine_detail": "Chromium (fork)",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "MIT",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://flecha.dev/",
+      "https://github.com/lucianodiisouza/flecha-browser",
+      "https://github.com/lucianodiisouza/flecha-browser/releases/tag/v0.1.3",
+      "https://flecha.dev/docs/",
+      "https://github.com/lucianodiisouza/flecha-browser/blob/main/chromium/CHROMIUM_VERSION",
+      "https://chromereleases.googleblog.com/2026/",
+      "https://github.com/lucianodiisouza/flecha-browser/releases/tag/v0.1.4"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "alpha",
+    "price": "Free"
+  },
+  {
+    "name": "Flux",
+    "slug": "flux",
+    "website": "https://flux-browser.com/",
+    "repository": "https://github.com/steeven-th/flux",
+    "engine": "chromium",
+    "engine_detail": "Chromium (fork)",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "MPL-2.0",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://flux-browser.com/",
+      "https://github.com/steeven-th/flux",
+      "https://github.com/steeven-th/flux/releases",
+      "https://github.com/steeven-th/flux/blob/main/CHANGELOG.md",
+      "https://flux-browser.com/privacy/",
+      "https://github.com/steeven-th/flux/releases/tag/v0.6.0"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "alpha",
+    "price": "Free"
+  },
+  {
+    "name": "Halo",
+    "slug": "halo",
+    "website": "https://oxyism.com/",
+    "repository": null,
+    "engine": "chromium",
+    "engine_detail": "Chromium (fork)",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "Proprietary",
+    "open_source": false,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://oxyism.com/",
+      "https://halo.oxyism.com/",
+      "https://docs.oxyism.com/",
+      "https://updates.oxyism.com/",
+      "https://halo.oxyism.com/compare"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Free during the beta"
+  },
+  {
+    "name": "Helium",
+    "slug": "helium",
+    "website": "https://helium.computer/",
+    "repository": "https://github.com/imputnet/helium",
+    "engine": "chromium",
+    "engine_detail": "Chromium (fork)",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "licence": "GPL-3.0",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://helium.computer/",
+      "https://github.com/imputnet/helium",
+      "https://github.com/imputnet/helium/releases/tag/0.21.3",
+      "https://github.com/imputnet/helium-macos/releases/tag/0.21.3.1",
+      "https://www.mintlify.com/imputnet/helium/features/privacy",
+      "https://github.com/imputnet/helium/blob/main/patches/helium/core/disable-reading-mode-omnibox-chip.patch"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Free"
+  },
+  {
+    "name": "ilo",
+    "slug": "ilo",
+    "website": "https://ilobrowser.com/",
+    "repository": "https://github.com/MartinPTielemans/ilo",
+    "engine": "chromium",
+    "engine_detail": "Chromium (fork)",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "licence": "GPL-3.0-or-later",
+    "open_source": true,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://ilobrowser.com/",
+      "https://github.com/MartinPTielemans/ilo"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Lilo",
+    "slug": "lilo",
+    "website": "https://getlilo.app/",
+    "repository": "https://github.com/Alexays/Lilo",
+    "engine": "webkit",
+    "engine_detail": "WebKit",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "MIT",
+    "open_source": true,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://getlilo.app/",
+      "https://github.com/Alexays/Lilo"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Magnetite",
+    "slug": "magnetite",
+    "website": "https://magnetitebrowser.org/",
+    "repository": "https://github.com/magnetite-browser/magnetite",
+    "engine": "chromium",
+    "engine_detail": "Chromium (CEF)",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "licence": "EUPL-1.2",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://magnetitebrowser.org/",
+      "https://github.com/magnetite-browser/magnetite",
+      "https://github.com/magnetite-browser/magnetite#readme",
+      "https://github.com/magnetite-browser/magnetite/releases",
+      "https://github.com/magnetite-browser/magnetite/releases/tag/v0.0.17",
+      "https://github.com/magnetite-browser/magnetite/tree/main/docs/spec"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "alpha",
+    "price": "Free"
+  },
+  {
+    "name": "Meridian",
+    "slug": "meridian",
+    "website": "https://meridianbrowser.app",
+    "repository": "https://github.com/Undermove/meridian-browser",
+    "engine": "chromium",
+    "engine_detail": "Chromium (fork)",
+    "platforms": [
+      "windows",
+      "macos"
+    ],
+    "licence": "MIT",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://meridianbrowser.app",
+      "https://github.com/Undermove/meridian-browser",
+      "https://github.com/Undermove/meridian-browser#readme",
+      "https://github.com/Undermove/meridian-browser/releases",
+      "https://github.com/Undermove/meridian-browser/releases/tag/v1.0.0",
+      "https://github.com/Undermove/meridian-browser/releases/tag/v0.6.30",
+      "https://meridianbrowser.app/changelog.html"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Free"
+  },
+  {
+    "name": "Mise",
+    "slug": "mise",
+    "website": "https://rakosn1cek.github.io/Mise-browser",
+    "repository": "https://github.com/Rakosn1cek/Mise-browser",
+    "engine": "chromium",
+    "engine_detail": "Chromium (Electron)",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "licence": "GPL-3.0",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://rakosn1cek.github.io/Mise-browser",
+      "https://github.com/Rakosn1cek/Mise-browser",
+      "https://github.com/Rakosn1cek/Mise-browser/releases/tag/v1.6.2",
+      "https://rakosn1cek.github.io/Mise-browser/guide/installation",
+      "https://rakosn1cek.github.io/Mise-browser/guide/workspaces-and-containers",
+      "https://releases.electronjs.org/",
+      "https://github.com/Rakosn1cek/Mise-browser/releases/tag/v1.7.0"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Free"
+  },
+  {
+    "name": "Nook",
+    "slug": "nook",
+    "website": "https://browsewithnook.com/",
+    "repository": "https://github.com/nook-browser/Nook",
+    "engine": "webkit",
+    "engine_detail": "WebKit",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "GPL-3.0",
+    "open_source": true,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://browsewithnook.com/",
+      "https://github.com/nook-browser/Nook"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "OpenArch",
+    "slug": "openarch",
+    "website": "https://openarch.app/",
+    "repository": "https://github.com/dpfaffenbauer/OpenArch",
+    "engine": "mixed",
+    "engine_detail": "Chromium (fork) + WebKit",
+    "platforms": [
+      "macos",
+      "ios"
+    ],
+    "licence": "MIT",
+    "open_source": true,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://openarch.app/",
+      "https://github.com/dpfaffenbauer/OpenArch"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Ora",
+    "slug": "ora",
+    "website": null,
+    "repository": "https://github.com/the-ora/browser",
+    "engine": "webkit",
+    "engine_detail": "WebKit",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "GPL-3.0",
+    "open_source": true,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://github.com/the-ora/browser"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Orion",
+    "slug": "orion",
+    "website": "https://orionbrowser.com/",
+    "repository": null,
+    "engine": "webkit",
+    "engine_detail": "WebKit",
+    "platforms": [
+      "macos",
+      "ios"
+    ],
+    "licence": "Proprietary",
+    "open_source": false,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://orionbrowser.com/"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Ortix",
+    "slug": "ortix",
+    "website": "https://systembionic.com/ortix",
+    "repository": null,
+    "engine": "webkit",
+    "engine_detail": "WebKit",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "Proprietary",
+    "open_source": false,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://systembionic.com/ortix"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Phi",
+    "slug": "phi",
+    "website": "https://phibrowser.com/",
+    "repository": "https://github.com/phibrowser/phibrowser-mac",
+    "engine": "chromium",
+    "engine_detail": "Chromium (fork)",
+    "platforms": [
+      "windows",
+      "macos"
+    ],
+    "licence": "Apache-2.0",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://phibrowser.com/",
+      "https://github.com/phibrowser/phibrowser-mac",
+      "https://github.com/phibrowser/phibrowser-framework/releases",
+      "https://phibrowser.com/release-note/2.17.0",
+      "https://phibrowser.com/help/switching-to-phi/",
+      "https://phibrowser.com/help/faq/"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "stable",
+    "price": "Free"
+  },
+  {
+    "name": "Point",
+    "slug": "point",
+    "website": "https://baculinivan-web.github.io/point-browser-landing/",
+    "repository": "https://github.com/baculinivan-web/Point",
+    "engine": "webkit",
+    "engine_detail": "WebKit",
+    "platforms": [
+      "macos"
+    ],
+    "licence": null,
+    "open_source": null,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://baculinivan-web.github.io/point-browser-landing/",
+      "https://github.com/baculinivan-web/Point"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Polar",
+    "slug": "polar",
+    "website": "https://polarbrowser.com/",
+    "repository": null,
+    "engine": "chromium",
+    "engine_detail": "Chromium",
+    "platforms": [
+      "windows",
+      "macos"
+    ],
+    "licence": null,
+    "open_source": null,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://polarbrowser.com/",
+      "https://polarbrowser.com",
+      "https://polarbrowser.com/changelog",
+      "https://polarbrowser.com/pricing",
+      "https://polarbrowser.com/download",
+      "https://polarbrowser.com/compare",
+      "https://piunikaweb.com/2026/07/30/polar-ai-browser-review-first-impressions/"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Freemium"
+  },
+  {
+    "name": "Quo",
+    "slug": "quo",
+    "website": "https://quobrowser.com/",
+    "repository": "https://github.com/razegrowth/Quo",
+    "engine": "webkit",
+    "engine_detail": "WebKit",
+    "platforms": [
+      "macos",
+      "ios"
+    ],
+    "licence": "MIT",
+    "open_source": true,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://quobrowser.com/",
+      "https://github.com/razegrowth/Quo"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Refrax",
+    "slug": "refrax",
+    "website": "https://kagerou.glass/refrax/",
+    "repository": "https://github.com/kageroumado/refrax-browser",
+    "engine": "mixed",
+    "engine_detail": "WebKit + Chromium",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "GPL-3.0",
+    "open_source": true,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://kagerou.glass/refrax/",
+      "https://github.com/kageroumado/refrax-browser"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Sailfish",
+    "slug": "sailfish",
+    "website": "https://www.sail.fish/",
+    "repository": "https://github.com/SailfishBrowser/macOS",
+    "engine": "chromium",
+    "engine_detail": "Chromium (fork)",
+    "platforms": [
+      "macos",
+      "ios"
+    ],
+    "licence": "Apache-2.0",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://www.sail.fish/",
+      "https://github.com/SailfishBrowser/macOS",
+      "https://sail.fish",
+      "https://sail.fish/guide",
+      "https://sail.fish/compare",
+      "https://github.com/SailfishBrowser/macOS/releases",
+      "https://github.com/SailfishBrowser/macOS/blob/main/engine/CHROMIUM_VERSION"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "alpha",
+    "price": "Free"
+  },
+  {
+    "name": "Search",
+    "slug": "search",
+    "website": "https://searchbrowser.app/",
+    "repository": "https://github.com/driceroland/Search",
+    "engine": "webkit",
+    "engine_detail": "WebKit",
+    "platforms": [
+      "macos",
+      "ios"
+    ],
+    "licence": "MIT",
+    "open_source": true,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://searchbrowser.app/",
+      "https://github.com/driceroland/Search"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "SigmaOS",
+    "slug": "sigmaos",
+    "website": "https://sigmaos.com/",
+    "repository": null,
+    "engine": "webkit",
+    "engine_detail": "WebKit",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "Proprietary",
+    "open_source": false,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://sigmaos.com/"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Stedding",
+    "slug": "stedding",
+    "website": "https://stedding.dev/",
+    "repository": "https://github.com/ysalitrynskyi/stedding-browser",
+    "engine": "chromium",
+    "engine_detail": "Chromium (fork)",
+    "platforms": [
+      "windows",
+      "macos"
+    ],
+    "licence": "BSD-3-Clause",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://stedding.dev/",
+      "https://github.com/ysalitrynskyi/stedding-browser",
+      "https://stedding.dev",
+      "https://github.com/ysalitrynskyi/stedding-browser/releases/tag/v0.4.0-beta.19",
+      "https://versionhistory.googleapis.com/v1/chrome/platforms/mac/channels/stable/versions",
+      "https://github.com/ysalitrynskyi/stedding-browser/releases/tag/v0.6.0",
+      "https://github.com/ysalitrynskyi/stedding-browser/releases/tag/v0.5.0"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Free"
+  },
+  {
+    "name": "Surf",
+    "slug": "surf",
+    "website": "https://deta.surf/",
+    "repository": "https://github.com/deta/surf",
+    "engine": "chromium",
+    "engine_detail": "Chromium (Electron)",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "licence": "Apache-2.0",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://deta.surf/",
+      "https://github.com/deta/surf",
+      "https://github.com/deta/surf/releases/tag/1.4.7-beta.0",
+      "https://github.com/deta/surf/blob/main/docs/INSTALL.md",
+      "https://github.com/deta/surf/blob/main/docs/SHORTCUTS.md",
+      "https://deta.surf",
+      "https://github.com/deta/surf/blob/main/app/package.json"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Free"
+  },
+  {
+    "name": "Swell",
+    "slug": "swell",
+    "website": "https://ivantacca.github.io/swell/",
+    "repository": "https://github.com/ivantacca/swell",
+    "engine": "gecko",
+    "engine_detail": "Firefox (Gecko)",
+    "platforms": [
+      "macos",
+      "linux"
+    ],
+    "licence": "MPL-2.0",
+    "open_source": true,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://ivantacca.github.io/swell/",
+      "https://github.com/ivantacca/swell"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Tangent",
+    "slug": "tangent",
+    "website": "https://tangent.place/",
+    "repository": null,
+    "engine": "chromium",
+    "engine_detail": "Chromium (fork)",
+    "platforms": [],
+    "licence": null,
+    "open_source": null,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://tangent.place/"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Tarn",
+    "slug": "tarn",
+    "website": "https://tarnbrowser.com/",
+    "repository": "https://github.com/Quavon-dev/tarn-browser",
+    "engine": "mixed",
+    "engine_detail": "WebKit, Chromium",
+    "platforms": [
+      "macos",
+      "windows",
+      "linux",
+      "ios",
+      "android"
+    ],
+    "licence": "GPL-3.0",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://tarnbrowser.com/",
+      "https://github.com/Quavon-dev/tarn-browser",
+      "https://github.com/Quavon-dev/tarn-browser/blob/main/README.md",
+      "https://github.com/Quavon-dev/tarn-browser/blob/main/CHANGELOG.md",
+      "https://github.com/Quavon-dev/tarn-browser/releases",
+      "https://github.com/Quavon-dev/tarn-browser/releases/tag/v0.1.6",
+      "https://github.com/Quavon-dev/tarn-browser/blob/main/PRIVACY.md"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "alpha",
+    "price": "Free"
+  },
+  {
+    "name": "Vane",
+    "slug": "vane",
+    "website": "https://vane.so/",
+    "repository": "https://github.com/notnaki/vane",
+    "engine": "webkit",
+    "engine_detail": "WebKit",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "MIT",
+    "open_source": true,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://vane.so/",
+      "https://github.com/notnaki/vane"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Viola",
+    "slug": "viola",
+    "website": "https://violabrowser.com/",
+    "repository": null,
+    "engine": "chromium",
+    "engine_detail": "Chromium",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux",
+      "ios",
+      "android"
+    ],
+    "licence": null,
+    "open_source": null,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://violabrowser.com/",
+      "https://violabrowser.com",
+      "https://github.com/nmcmil/Viola-Downloads/releases",
+      "https://github.com/nmcmil/Viola-Downloads/releases/tag/v0.2.10",
+      "https://github.com/nmcmil/Viola-Downloads/releases/tag/v0.2.0",
+      "https://violabrowser.com/privacy.html",
+      "https://github.com/nmcmil/Viola-Downloads/releases/tag/v0.2.8"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Freemium (Pro €29/month)"
+  },
+  {
+    "name": "Wren",
+    "slug": "wren",
+    "website": "https://wrenbrowser.com/",
+    "repository": "https://github.com/MultiboxLabs/wren-browser",
+    "engine": "chromium",
+    "engine_detail": "Chromium",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "MPL-2.0",
+    "open_source": true,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://wrenbrowser.com/",
+      "https://github.com/MultiboxLabs/wren-browser"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Xelium",
+    "slug": "xelium",
+    "website": null,
+    "repository": "https://github.com/minervanet/xelium-macos",
+    "engine": "chromium",
+    "engine_detail": "Chromium (fork)",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "GPL-3.0",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://github.com/minervanet/xelium-macos",
+      "https://github.com/minervanet/xelium-macos/releases/tag/v0.20.3.1",
+      "https://github.com/imputnet/helium",
+      "https://versionhistory.googleapis.com/v1/chrome/platforms/mac/channels/stable/versions",
+      "https://github.com/imputnet/helium/blob/2f81b9cafa38a95071e20de3f9cd6b0aca6d3c65/patches/helium/core/component-updates.patch",
+      "https://github.com/imputnet/helium/blob/2f81b9cafa38a95071e20de3f9cd6b0aca6d3c65/patches/helium/core/memory-saving-by-default.patch"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "alpha",
+    "price": "Free"
+  },
+  {
+    "name": "Yab",
+    "slug": "yab",
+    "website": "https://yetanotherbrowser.com/",
+    "repository": "https://github.com/yetanotherbrowser/yab",
+    "engine": "mixed",
+    "engine_detail": "WebKit + Chromium",
+    "platforms": [
+      "macos",
+      "ios",
+      "android"
+    ],
+    "licence": "Apache-2.0",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://yetanotherbrowser.com/",
+      "https://github.com/yetanotherbrowser/yab",
+      "https://yetanotherbrowser.com",
+      "https://yetanotherbrowser.com/changelog",
+      "https://yetanotherbrowser.com/changelog/0.53",
+      "https://yetanotherbrowser.com/changelog/0.46",
+      "https://yetanotherbrowser.com/changelog/0.47",
+      "https://yetanotherbrowser.com/changelog/0.48"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Free"
+  },
+  {
+    "name": "Yalqen",
+    "slug": "yalqen",
+    "website": "https://yalqen.com/",
+    "repository": "https://github.com/YSamed/yalqen",
+    "engine": "chromium",
+    "engine_detail": "Chromium (Electron)",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "MIT",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://yalqen.com/",
+      "https://github.com/YSamed/yalqen",
+      "https://github.com/YSamed/yalqen/releases/tag/v0.4.4",
+      "https://github.com/YSamed/yalqen/blob/main/apps/browser/CHANGELOG.md",
+      "https://github.com/YSamed/yalqen/blob/main/docs/README.md",
+      "https://github.com/YSamed/yalqen/blob/main/docs/keyboard-shortcuts.md",
+      "https://yalqen.com"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Free"
+  },
+  {
+    "name": "YARC",
+    "slug": "yarc",
+    "website": "https://yenebeb.nl/yarc",
+    "repository": "https://github.com/yenebeb/yarc",
+    "engine": "chromium",
+    "engine_detail": "Chromium (Electron)",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "licence": "GPL-3.0",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://yenebeb.nl/yarc",
+      "https://github.com/yenebeb/yarc",
+      "https://github.com/yenebeb/yarc/releases/tag/v0.1.40",
+      "https://github.com/yenebeb/yarc/blob/main/package.json",
+      "https://github.com/yenebeb/yarc/blob/main/README.md",
+      "https://github.com/yenebeb/yarc/blob/main/src/renderer/src/panels/Settings.tsx"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Free"
+  },
+  {
+    "name": "Zen",
+    "slug": "zen",
+    "website": "https://zen-browser.app/",
+    "repository": "https://github.com/zen-browser/desktop",
+    "engine": "gecko",
+    "engine_detail": "Firefox (Gecko)",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "licence": "MPL-2.0",
+    "open_source": true,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://zen-browser.app/",
+      "https://github.com/zen-browser/desktop"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Zephium",
+    "slug": "zephium",
+    "website": "https://zephium.app",
+    "repository": "https://github.com/zephium-browser/Zephium",
+    "engine": "mixed",
+    "engine_detail": "WebKit (macOS) + Chromium (Windows)",
+    "platforms": [
+      "windows",
+      "macos"
+    ],
+    "licence": "MPL-2.0",
+    "open_source": true,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://zephium.app",
+      "https://github.com/zephium-browser/Zephium"
+    ],
+    "checked": null,
+    "notes": null
+  },
+  {
+    "name": "Zepper",
+    "slug": "zepper",
+    "website": "https://mrdsa.dev/zepper",
+    "repository": "https://github.com/imdewan/zepper-browser",
+    "engine": "chromium",
+    "engine_detail": "Chromium (Electron)",
+    "platforms": [
+      "macos",
+      "linux"
+    ],
+    "licence": "GPL-3.0",
+    "open_source": true,
+    "status": "active",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://mrdsa.dev/zepper",
+      "https://github.com/imdewan/zepper-browser",
+      "https://github.com/imdewan/zepper-browser/blob/main/README.md",
+      "https://github.com/imdewan/zepper-browser/blob/main/docs/FEATURES.md",
+      "https://github.com/imdewan/zepper-browser/blob/main/CHANGELOG.md",
+      "https://github.com/imdewan/zepper-browser/blob/main/docs/SYNC.md",
+      "https://github.com/imdewan/zepper-browser/blob/main/docs/ARCHITECTURE.md"
+    ],
+    "checked": "2026-11-25",
+    "notes": null,
+    "maturity": "beta",
+    "price": "Free"
+  },
+  {
+    "name": "Zigzag",
+    "slug": "zigzag",
+    "website": "https://zigzagbrowser.com/",
+    "repository": "https://github.com/ZigaoWang/zigzag",
+    "engine": "webkit",
+    "engine_detail": "WebKit",
+    "platforms": [
+      "macos"
+    ],
+    "licence": "Apache-2.0",
+    "open_source": true,
+    "status": "unknown",
+    "listed_in": [
+      "awesome-arc-alternatives"
+    ],
+    "sources": [
+      "https://zigzagbrowser.com/",
+      "https://github.com/ZigaoWang/zigzag"
+    ],
+    "checked": null,
+    "notes": null
+  }
+]

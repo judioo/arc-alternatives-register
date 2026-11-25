@@ -1,0 +1,24 @@
+{
+  "name": "Swell",
+  "slug": "swell",
+  "website": "https://ivantacca.github.io/swell/",
+  "repository": "https://github.com/ivantacca/swell",
+  "engine": "gecko",
+  "engine_detail": "Firefox (Gecko)",
+  "platforms": [
+    "macos",
+    "linux"
+  ],
+  "licence": "MPL-2.0",
+  "open_source": true,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://ivantacca.github.io/swell/",
+    "https://github.com/ivantacca/swell"
+  ],
+  "checked": null,
+  "notes": null
+}

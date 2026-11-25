@@ -1,0 +1,22 @@
+{
+  "name": "SigmaOS",
+  "slug": "sigmaos",
+  "website": "https://sigmaos.com/",
+  "repository": null,
+  "engine": "webkit",
+  "engine_detail": "WebKit",
+  "platforms": [
+    "macos"
+  ],
+  "licence": "Proprietary",
+  "open_source": false,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://sigmaos.com/"
+  ],
+  "checked": null,
+  "notes": null
+}

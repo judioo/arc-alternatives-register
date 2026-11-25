@@ -1,0 +1,28 @@
+{
+  "name": "Halo",
+  "slug": "halo",
+  "website": "https://oxyism.com/",
+  "repository": null,
+  "engine": "chromium",
+  "engine_detail": "Chromium (fork)",
+  "platforms": [
+    "macos"
+  ],
+  "licence": "Proprietary",
+  "open_source": false,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://oxyism.com/",
+    "https://halo.oxyism.com/",
+    "https://docs.oxyism.com/",
+    "https://updates.oxyism.com/",
+    "https://halo.oxyism.com/compare"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "beta",
+  "price": "Free during the beta"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Acira",
+  "slug": "acira",
+  "website": "https://acirabrowser.com/",
+  "repository": "https://github.com/Acira-dev/AciraBrowser",
+  "engine": "chromium",
+  "engine_detail": "Chromium (Electron)",
+  "platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "licence": "AGPL-3.0",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://acirabrowser.com/",
+    "https://github.com/Acira-dev/AciraBrowser",
+    "https://github.com/Acira-dev/AciraBrowserUpdates/releases",
+    "https://acirabrowser.com/docs/",
+    "https://acirabrowser.com/docs/limits/",
+    "https://acirabrowser.com/docs/sidebar/",
+    "https://releases.electronjs.org/"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "beta",
+  "price": "Free"
+}

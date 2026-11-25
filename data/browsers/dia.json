@@ -1,0 +1,30 @@
+{
+  "name": "Dia",
+  "slug": "dia",
+  "website": "https://www.diabrowser.com/",
+  "repository": null,
+  "engine": "chromium",
+  "engine_detail": "Chromium",
+  "platforms": [
+    "windows",
+    "macos"
+  ],
+  "licence": "Proprietary",
+  "open_source": false,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://www.diabrowser.com/",
+    "https://www.diabrowser.com/release-notes",
+    "https://arc.net/",
+    "https://supasidebar.com/blog/arc-browser-to-dia",
+    "https://alternativeto.net/news/2026/8/dia-browser-lets-you-swipe-between-profiles-and-import-from-arc-and-chrome/",
+    "https://makerstack.co/reviews/dia-review/"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "stable",
+  "price": "Freemium"
+}

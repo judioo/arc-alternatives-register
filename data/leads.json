@@ -1,0 +1,314 @@
+{
+  "about": "Browsers seen on other lists that are not in the register yet. Each one needs checking against its own website or repository before it gets a file in data/browsers.",
+  "leads": [
+    {
+      "name": "Facet",
+      "engine_as_seen": "Mixed",
+      "website_as_seen": "https://facet.surf",
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Circa",
+      "engine_as_seen": "Chromium",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Luma",
+      "engine_as_seen": "Chromium (Electron)",
+      "website_as_seen": "https://lumabrowser.dev",
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Sol",
+      "engine_as_seen": "Chromium",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Orbit",
+      "engine_as_seen": "Chromium",
+      "website_as_seen": "https://orbitbrowser.net",
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Airc",
+      "engine_as_seen": "Chromium",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Contrail",
+      "engine_as_seen": "WebKit",
+      "website_as_seen": "https://contrailbrowser.com",
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Sval",
+      "engine_as_seen": "Gecko",
+      "website_as_seen": "https://sval.app",
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Bow",
+      "engine_as_seen": "Chromium (Electron)",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Detour",
+      "engine_as_seen": "WebKit",
+      "website_as_seen": "https://detourbrowser.com",
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Shiira",
+      "engine_as_seen": "Chromium (Electron)",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Orbe",
+      "engine_as_seen": "Chromium (Electron)",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Millie",
+      "engine_as_seen": "Chromium",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Emerald",
+      "engine_as_seen": "WebKit",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Kaizu",
+      "engine_as_seen": "WebKit",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Holoholo",
+      "engine_as_seen": "Chromium",
+      "website_as_seen": "https://holoholo.dev",
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Beam",
+      "engine_as_seen": "WebKit",
+      "website_as_seen": "https://beambrowser.app",
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Arcky",
+      "engine_as_seen": "WebKit",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Tern",
+      "engine_as_seen": "WebKit",
+      "website_as_seen": "https://ternbrowser.com",
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Lako",
+      "engine_as_seen": "Chromium",
+      "website_as_seen": "https://getlako.com",
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Aster",
+      "engine_as_seen": "WebKit",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Lens",
+      "engine_as_seen": "WebKit",
+      "website_as_seen": "https://lens.maximos.work",
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Krypton",
+      "engine_as_seen": "Chromium",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Solamar",
+      "engine_as_seen": "Chromium (Electron)",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Talos",
+      "engine_as_seen": "WebKit",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Kudium",
+      "engine_as_seen": "Chromium (Electron)",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Tweed",
+      "engine_as_seen": "WebKit",
+      "website_as_seen": "https://tweedbrowser.com",
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Tacet",
+      "engine_as_seen": "WebKit",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Browsa",
+      "engine_as_seen": "WebKit",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "myBrowser",
+      "engine_as_seen": "WebKit",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Early",
+      "engine_as_seen": "WebKit",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Oblada",
+      "engine_as_seen": "Chromium",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "1zero",
+      "engine_as_seen": "Chromium (Electron)",
+      "website_as_seen": "https://1zero.app",
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Pola",
+      "engine_as_seen": "WebKit",
+      "website_as_seen": "https://polabrowser.com",
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Satori",
+      "engine_as_seen": "WebKit",
+      "website_as_seen": "https://satoribrowser.com",
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Atelier",
+      "engine_as_seen": "Chromium (Electron)",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "SurfPad",
+      "engine_as_seen": "WebKit",
+      "website_as_seen": "https://surfpad.app",
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Feather",
+      "engine_as_seen": "WebKit",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Orb",
+      "engine_as_seen": "Chromium (Electron)",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Nova",
+      "engine_as_seen": "Chromium (Electron)",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Mine",
+      "engine_as_seen": "Chromium (Electron)",
+      "website_as_seen": "https://minebrowser.com",
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Use",
+      "engine_as_seen": "WebKit",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Somnia",
+      "engine_as_seen": "WebKit",
+      "website_as_seen": null,
+      "seen_on": "https://byearc.com/compare/",
+      "seen": "2026-11-25"
+    },
+    {
+      "name": "Flow",
+      "engine_as_seen": "Chromium (Electron)",
+      "website_as_seen": "https://flow-browser.com",
+      "seen_on": "https://github.com/MultiboxLabs/flow-browser",
+      "seen": "2026-11-25",
+      "note": "Same maker as Wren (MultiboxLabs). Check whether Wren replaced it."
+    }
+  ]
+}

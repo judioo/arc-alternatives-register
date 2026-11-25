@@ -1,0 +1,23 @@
+{
+  "name": "Vane",
+  "slug": "vane",
+  "website": "https://vane.so/",
+  "repository": "https://github.com/notnaki/vane",
+  "engine": "webkit",
+  "engine_detail": "WebKit",
+  "platforms": [
+    "macos"
+  ],
+  "licence": "MIT",
+  "open_source": true,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://vane.so/",
+    "https://github.com/notnaki/vane"
+  ],
+  "checked": null,
+  "notes": null
+}

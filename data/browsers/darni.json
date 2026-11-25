@@ -1,0 +1,26 @@
+{
+  "name": "Darni",
+  "slug": "darni",
+  "website": "https://darni.imara.ae/",
+  "repository": "https://github.com/judioo/darni",
+  "engine": "chromium",
+  "engine_detail": "Chromium (fork)",
+  "platforms": [
+    "macos"
+  ],
+  "licence": "Apache-2.0",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://darni.imara.ae/",
+    "https://github.com/judioo/darni",
+    "https://darni.imara.ae/releases"
+  ],
+  "checked": "2026-11-26",
+  "notes": null,
+  "maturity": "beta",
+  "price": "Free"
+}

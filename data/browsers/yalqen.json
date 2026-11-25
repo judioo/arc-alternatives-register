@@ -1,0 +1,30 @@
+{
+  "name": "Yalqen",
+  "slug": "yalqen",
+  "website": "https://yalqen.com/",
+  "repository": "https://github.com/YSamed/yalqen",
+  "engine": "chromium",
+  "engine_detail": "Chromium (Electron)",
+  "platforms": [
+    "macos"
+  ],
+  "licence": "MIT",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://yalqen.com/",
+    "https://github.com/YSamed/yalqen",
+    "https://github.com/YSamed/yalqen/releases/tag/v0.4.4",
+    "https://github.com/YSamed/yalqen/blob/main/apps/browser/CHANGELOG.md",
+    "https://github.com/YSamed/yalqen/blob/main/docs/README.md",
+    "https://github.com/YSamed/yalqen/blob/main/docs/keyboard-shortcuts.md",
+    "https://yalqen.com"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "beta",
+  "price": "Free"
+}

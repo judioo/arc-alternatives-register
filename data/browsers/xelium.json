@@ -1,0 +1,29 @@
+{
+  "name": "Xelium",
+  "slug": "xelium",
+  "website": null,
+  "repository": "https://github.com/minervanet/xelium-macos",
+  "engine": "chromium",
+  "engine_detail": "Chromium (fork)",
+  "platforms": [
+    "macos"
+  ],
+  "licence": "GPL-3.0",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://github.com/minervanet/xelium-macos",
+    "https://github.com/minervanet/xelium-macos/releases/tag/v0.20.3.1",
+    "https://github.com/imputnet/helium",
+    "https://versionhistory.googleapis.com/v1/chrome/platforms/mac/channels/stable/versions",
+    "https://github.com/imputnet/helium/blob/2f81b9cafa38a95071e20de3f9cd6b0aca6d3c65/patches/helium/core/component-updates.patch",
+    "https://github.com/imputnet/helium/blob/2f81b9cafa38a95071e20de3f9cd6b0aca6d3c65/patches/helium/core/memory-saving-by-default.patch"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "alpha",
+  "price": "Free"
+}

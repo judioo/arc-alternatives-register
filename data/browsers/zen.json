@@ -1,0 +1,25 @@
+{
+  "name": "Zen",
+  "slug": "zen",
+  "website": "https://zen-browser.app/",
+  "repository": "https://github.com/zen-browser/desktop",
+  "engine": "gecko",
+  "engine_detail": "Firefox (Gecko)",
+  "platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "licence": "MPL-2.0",
+  "open_source": true,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://zen-browser.app/",
+    "https://github.com/zen-browser/desktop"
+  ],
+  "checked": null,
+  "notes": null
+}

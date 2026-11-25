@@ -1,0 +1,31 @@
+{
+  "name": "YARC",
+  "slug": "yarc",
+  "website": "https://yenebeb.nl/yarc",
+  "repository": "https://github.com/yenebeb/yarc",
+  "engine": "chromium",
+  "engine_detail": "Chromium (Electron)",
+  "platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "licence": "GPL-3.0",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://yenebeb.nl/yarc",
+    "https://github.com/yenebeb/yarc",
+    "https://github.com/yenebeb/yarc/releases/tag/v0.1.40",
+    "https://github.com/yenebeb/yarc/blob/main/package.json",
+    "https://github.com/yenebeb/yarc/blob/main/README.md",
+    "https://github.com/yenebeb/yarc/blob/main/src/renderer/src/panels/Settings.tsx"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "beta",
+  "price": "Free"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Bay",
+  "slug": "bay",
+  "website": "https://baybrowser.in/",
+  "repository": "https://github.com/krishkalaria12/bay",
+  "engine": "mixed",
+  "engine_detail": "Chromium (CEF) + WebKit",
+  "platforms": [
+    "macos"
+  ],
+  "licence": "Apache-2.0",
+  "open_source": true,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://baybrowser.in/",
+    "https://github.com/krishkalaria12/bay"
+  ],
+  "checked": null,
+  "notes": null
+}

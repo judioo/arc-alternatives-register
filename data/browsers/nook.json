@@ -1,0 +1,23 @@
+{
+  "name": "Nook",
+  "slug": "nook",
+  "website": "https://browsewithnook.com/",
+  "repository": "https://github.com/nook-browser/Nook",
+  "engine": "webkit",
+  "engine_detail": "WebKit",
+  "platforms": [
+    "macos"
+  ],
+  "licence": "GPL-3.0",
+  "open_source": true,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://browsewithnook.com/",
+    "https://github.com/nook-browser/Nook"
+  ],
+  "checked": null,
+  "notes": null
+}

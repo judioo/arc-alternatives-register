@@ -1,0 +1,32 @@
+{
+  "name": "Surf",
+  "slug": "surf",
+  "website": "https://deta.surf/",
+  "repository": "https://github.com/deta/surf",
+  "engine": "chromium",
+  "engine_detail": "Chromium (Electron)",
+  "platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "licence": "Apache-2.0",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://deta.surf/",
+    "https://github.com/deta/surf",
+    "https://github.com/deta/surf/releases/tag/1.4.7-beta.0",
+    "https://github.com/deta/surf/blob/main/docs/INSTALL.md",
+    "https://github.com/deta/surf/blob/main/docs/SHORTCUTS.md",
+    "https://deta.surf",
+    "https://github.com/deta/surf/blob/main/app/package.json"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "beta",
+  "price": "Free"
+}

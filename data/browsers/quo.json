@@ -1,0 +1,24 @@
+{
+  "name": "Quo",
+  "slug": "quo",
+  "website": "https://quobrowser.com/",
+  "repository": "https://github.com/razegrowth/Quo",
+  "engine": "webkit",
+  "engine_detail": "WebKit",
+  "platforms": [
+    "macos",
+    "ios"
+  ],
+  "licence": "MIT",
+  "open_source": true,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://quobrowser.com/",
+    "https://github.com/razegrowth/Quo"
+  ],
+  "checked": null,
+  "notes": null
+}

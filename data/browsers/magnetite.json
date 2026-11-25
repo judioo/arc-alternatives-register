@@ -1,0 +1,31 @@
+{
+  "name": "Magnetite",
+  "slug": "magnetite",
+  "website": "https://magnetitebrowser.org/",
+  "repository": "https://github.com/magnetite-browser/magnetite",
+  "engine": "chromium",
+  "engine_detail": "Chromium (CEF)",
+  "platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "licence": "EUPL-1.2",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://magnetitebrowser.org/",
+    "https://github.com/magnetite-browser/magnetite",
+    "https://github.com/magnetite-browser/magnetite#readme",
+    "https://github.com/magnetite-browser/magnetite/releases",
+    "https://github.com/magnetite-browser/magnetite/releases/tag/v0.0.17",
+    "https://github.com/magnetite-browser/magnetite/tree/main/docs/spec"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "alpha",
+  "price": "Free"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Polar",
+  "slug": "polar",
+  "website": "https://polarbrowser.com/",
+  "repository": null,
+  "engine": "chromium",
+  "engine_detail": "Chromium",
+  "platforms": [
+    "windows",
+    "macos"
+  ],
+  "licence": null,
+  "open_source": null,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://polarbrowser.com/",
+    "https://polarbrowser.com",
+    "https://polarbrowser.com/changelog",
+    "https://polarbrowser.com/pricing",
+    "https://polarbrowser.com/download",
+    "https://polarbrowser.com/compare",
+    "https://piunikaweb.com/2026/07/30/polar-ai-browser-review-first-impressions/"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "beta",
+  "price": "Freemium"
+}

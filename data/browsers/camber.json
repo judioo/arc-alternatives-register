@@ -1,0 +1,31 @@
+{
+  "name": "camber",
+  "slug": "camber",
+  "website": "https://www.yuvrajangadsingh.com/camber",
+  "repository": "https://github.com/yuvrajangadsingh/camber",
+  "engine": "chromium",
+  "engine_detail": "Chromium (Electron)",
+  "platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "licence": "GPL-3.0",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://www.yuvrajangadsingh.com/camber",
+    "https://github.com/yuvrajangadsingh/camber",
+    "https://github.com/yuvrajangadsingh/camber/blob/main/CHANGELOG.md",
+    "https://github.com/yuvrajangadsingh/camber/releases",
+    "https://releases.electronjs.org/",
+    "https://github.com/yuvrajangadsingh/camber/releases/tag/v0.5.0"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "beta",
+  "price": "Free"
+}

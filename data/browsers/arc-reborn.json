@@ -1,0 +1,29 @@
+{
+  "name": "Arc Reborn",
+  "slug": "arc-reborn",
+  "website": "https://www.arc-reborn.com/",
+  "repository": "https://github.com/tiff75009/arcreborn",
+  "engine": "chromium",
+  "engine_detail": "Chromium (CEF)",
+  "platforms": [
+    "macos"
+  ],
+  "licence": "MPL-2.0",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://www.arc-reborn.com/",
+    "https://github.com/tiff75009/arcreborn",
+    "https://github.com/tiff75009/arcreborn/releases",
+    "https://github.com/tiff75009/arcreborn/blob/main/docs/development/architecture.md",
+    "https://github.com/tiff75009/arcreborn/releases/tag/v1.3.0",
+    "https://github.com/tiff75009/arcreborn/blob/main/native/Sources/Localization.swift"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "beta",
+  "price": "Free"
+}

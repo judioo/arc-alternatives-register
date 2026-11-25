@@ -1,0 +1,31 @@
+{
+  "name": "Sailfish",
+  "slug": "sailfish",
+  "website": "https://www.sail.fish/",
+  "repository": "https://github.com/SailfishBrowser/macOS",
+  "engine": "chromium",
+  "engine_detail": "Chromium (fork)",
+  "platforms": [
+    "macos",
+    "ios"
+  ],
+  "licence": "Apache-2.0",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://www.sail.fish/",
+    "https://github.com/SailfishBrowser/macOS",
+    "https://sail.fish",
+    "https://sail.fish/guide",
+    "https://sail.fish/compare",
+    "https://github.com/SailfishBrowser/macOS/releases",
+    "https://github.com/SailfishBrowser/macOS/blob/main/engine/CHROMIUM_VERSION"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "alpha",
+  "price": "Free"
+}

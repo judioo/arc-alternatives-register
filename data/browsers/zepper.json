@@ -1,0 +1,31 @@
+{
+  "name": "Zepper",
+  "slug": "zepper",
+  "website": "https://mrdsa.dev/zepper",
+  "repository": "https://github.com/imdewan/zepper-browser",
+  "engine": "chromium",
+  "engine_detail": "Chromium (Electron)",
+  "platforms": [
+    "macos",
+    "linux"
+  ],
+  "licence": "GPL-3.0",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://mrdsa.dev/zepper",
+    "https://github.com/imdewan/zepper-browser",
+    "https://github.com/imdewan/zepper-browser/blob/main/README.md",
+    "https://github.com/imdewan/zepper-browser/blob/main/docs/FEATURES.md",
+    "https://github.com/imdewan/zepper-browser/blob/main/CHANGELOG.md",
+    "https://github.com/imdewan/zepper-browser/blob/main/docs/SYNC.md",
+    "https://github.com/imdewan/zepper-browser/blob/main/docs/ARCHITECTURE.md"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "beta",
+  "price": "Free"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "ilo",
+  "slug": "ilo",
+  "website": "https://ilobrowser.com/",
+  "repository": "https://github.com/MartinPTielemans/ilo",
+  "engine": "chromium",
+  "engine_detail": "Chromium (fork)",
+  "platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "licence": "GPL-3.0-or-later",
+  "open_source": true,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://ilobrowser.com/",
+    "https://github.com/MartinPTielemans/ilo"
+  ],
+  "checked": null,
+  "notes": null
+}

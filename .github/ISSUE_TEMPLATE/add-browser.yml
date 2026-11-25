@@ -1,0 +1,23 @@
+name: Add a browser
+description: Tell us about a browser that isn't in the register
+labels: [new browser]
+body:
+  - type: input
+    id: name
+    attributes: { label: Name }
+    validations: { required: true }
+  - type: input
+    id: website
+    attributes: { label: Website or repository }
+    validations: { required: true }
+  - type: textarea
+    id: facts
+    attributes:
+      label: What you know
+      description: Engine, platforms, licence, and links that show them
+  - type: checkboxes
+    id: maker
+    attributes:
+      label: About you
+      options:
+        - label: I make this browser

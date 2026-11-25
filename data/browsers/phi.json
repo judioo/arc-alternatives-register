@@ -1,0 +1,30 @@
+{
+  "name": "Phi",
+  "slug": "phi",
+  "website": "https://phibrowser.com/",
+  "repository": "https://github.com/phibrowser/phibrowser-mac",
+  "engine": "chromium",
+  "engine_detail": "Chromium (fork)",
+  "platforms": [
+    "windows",
+    "macos"
+  ],
+  "licence": "Apache-2.0",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://phibrowser.com/",
+    "https://github.com/phibrowser/phibrowser-mac",
+    "https://github.com/phibrowser/phibrowser-framework/releases",
+    "https://phibrowser.com/release-note/2.17.0",
+    "https://phibrowser.com/help/switching-to-phi/",
+    "https://phibrowser.com/help/faq/"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "stable",
+  "price": "Free"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Arx",
+  "slug": "arx",
+  "website": "https://arxbrowser.net/",
+  "repository": "https://github.com/capturecontext/arx-browser",
+  "engine": "chromium",
+  "engine_detail": "Chromium (fork)",
+  "platforms": [
+    "macos"
+  ],
+  "licence": "GPL-3.0",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://arxbrowser.net/",
+    "https://github.com/capturecontext/arx-browser",
+    "https://capturecontext.dev/apps/arx",
+    "https://github.com/CaptureContext/arx-browser",
+    "https://github.com/CaptureContext/arx-browser/releases/tag/0.1.0",
+    "https://github.com/CaptureContext/arx-browser/blob/main/DEVELOPMENT.md",
+    "https://arxbrowser.net/changelog"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "beta",
+  "price": "Free"
+}

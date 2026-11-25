@@ -1,0 +1,22 @@
+{
+  "name": "Ortix",
+  "slug": "ortix",
+  "website": "https://systembionic.com/ortix",
+  "repository": null,
+  "engine": "webkit",
+  "engine_detail": "WebKit",
+  "platforms": [
+    "macos"
+  ],
+  "licence": "Proprietary",
+  "open_source": false,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://systembionic.com/ortix"
+  ],
+  "checked": null,
+  "notes": null
+}

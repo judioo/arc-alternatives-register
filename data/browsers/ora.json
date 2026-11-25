@@ -1,0 +1,22 @@
+{
+  "name": "Ora",
+  "slug": "ora",
+  "website": null,
+  "repository": "https://github.com/the-ora/browser",
+  "engine": "webkit",
+  "engine_detail": "WebKit",
+  "platforms": [
+    "macos"
+  ],
+  "licence": "GPL-3.0",
+  "open_source": true,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://github.com/the-ora/browser"
+  ],
+  "checked": null,
+  "notes": null
+}

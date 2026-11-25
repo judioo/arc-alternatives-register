@@ -1,0 +1,57 @@
+name,slug,engine,engine_detail,platforms,licence,open_source,status,maturity,price,website,repository,checked
+Acira,acira,chromium,Chromium (Electron),windows macos linux,AGPL-3.0,true,active,beta,Free,https://acirabrowser.com/,https://github.com/Acira-dev/AciraBrowser,2026-11-25
+Arbalete,arbalete,chromium,Chromium (CEF),macos,MPL-2.0,true,unknown,,,https://arbalete.co/,https://github.com/amenophis/arbalete,
+Arc Reborn,arc-reborn,chromium,Chromium (CEF),macos,MPL-2.0,true,active,beta,Free,https://www.arc-reborn.com/,https://github.com/tiff75009/arcreborn,2026-11-25
+Arcium,arcium,chromium,Chromium (fork),macos,GPL-3.0,true,active,alpha,Free,,https://github.com/dr-baker/Arcium-macOS,2026-11-25
+Ardia,ardia,mixed,Chromium + WebKit,macos,GPL-3.0,true,active,beta,Free,https://ardia.dev/,https://github.com/ardia-browser/ardia,2026-11-25
+Argus,argus,webkit,WebKit (unconfirmed),,Proprietary,false,unknown,,,https://argusbrowser.io/,,
+Arx,arx,chromium,Chromium (fork),macos,GPL-3.0,true,active,beta,Free,https://arxbrowser.net/,https://github.com/capturecontext/arx-browser,2026-11-25
+Aside,aside,chromium,Chromium (fork),windows macos,Proprietary,false,active,stable,Freemium,https://aside.com/,,2026-11-25
+Bay,bay,mixed,Chromium (CEF) + WebKit,macos,Apache-2.0,true,unknown,,,https://baybrowser.in/,https://github.com/krishkalaria12/bay,
+Blanc,blanc,chromium,Chromium (Electron),windows macos linux ios,MIT,true,active,stable,Free (optional Patron $4/mo or $30/yr),https://blanc.day/,https://github.com/bnfy/blanc,2026-11-25
+camber,camber,chromium,Chromium (Electron),windows macos linux,GPL-3.0,true,active,beta,Free,https://www.yuvrajangadsingh.com/camber,https://github.com/yuvrajangadsingh/camber,2026-11-25
+Click,click,webkit,WebKit,macos,,,unknown,,,https://clickbrowser.app/,,
+Compass,compass,chromium,Chromium (fork),windows macos linux ios android,BSD-3-Clause,true,unknown,,,https://compassbrowser.org/,https://github.com/Compass-Browser/Compass,
+Cra,cra,chromium,Chromium (CEF),macos ios,MIT,true,active,beta,Free,https://crabrowser.app/,https://github.com/VictorKildahl/cra,2026-11-25
+Crest,crest,mixed,Chromium + WebKit,macos ios,MPL-2.0,true,active,beta,Free,https://crestbrowser.com/,https://github.com/crest-browser/Crest,2026-11-25
+Darni,darni,chromium,Chromium (fork),macos,Apache-2.0,true,active,beta,Free,https://darni.imara.ae/,https://github.com/judioo/darni,2026-11-26
+Dia,dia,chromium,Chromium,windows macos,Proprietary,false,active,stable,Freemium,https://www.diabrowser.com/,,2026-11-25
+Firn,firn,webkit,WebKit,macos,MPL-2.0,true,unknown,,,https://firnbrowser.com/,https://github.com/dwurgy/firn,
+Flecha,flecha,chromium,Chromium (fork),macos,MIT,true,active,alpha,Free,https://flecha.dev/,https://github.com/lucianodiisouza/flecha-browser,2026-11-25
+Flux,flux,chromium,Chromium (fork),macos,MPL-2.0,true,active,alpha,Free,https://flux-browser.com/,https://github.com/steeven-th/flux,2026-11-25
+Halo,halo,chromium,Chromium (fork),macos,Proprietary,false,active,beta,Free during the beta,https://oxyism.com/,,2026-11-25
+Helium,helium,chromium,Chromium (fork),windows macos linux,GPL-3.0,true,active,beta,Free,https://helium.computer/,https://github.com/imputnet/helium,2026-11-25
+ilo,ilo,chromium,Chromium (fork),windows macos linux,GPL-3.0-or-later,true,unknown,,,https://ilobrowser.com/,https://github.com/MartinPTielemans/ilo,
+Lilo,lilo,webkit,WebKit,macos,MIT,true,unknown,,,https://getlilo.app/,https://github.com/Alexays/Lilo,
+Magnetite,magnetite,chromium,Chromium (CEF),windows macos linux,EUPL-1.2,true,active,alpha,Free,https://magnetitebrowser.org/,https://github.com/magnetite-browser/magnetite,2026-11-25
+Meridian,meridian,chromium,Chromium (fork),windows macos,MIT,true,active,beta,Free,https://meridianbrowser.app,https://github.com/Undermove/meridian-browser,2026-11-25
+Mise,mise,chromium,Chromium (Electron),windows macos linux,GPL-3.0,true,active,beta,Free,https://rakosn1cek.github.io/Mise-browser,https://github.com/Rakosn1cek/Mise-browser,2026-11-25
+Nook,nook,webkit,WebKit,macos,GPL-3.0,true,unknown,,,https://browsewithnook.com/,https://github.com/nook-browser/Nook,
+OpenArch,openarch,mixed,Chromium (fork) + WebKit,macos ios,MIT,true,unknown,,,https://openarch.app/,https://github.com/dpfaffenbauer/OpenArch,
+Ora,ora,webkit,WebKit,macos,GPL-3.0,true,unknown,,,,https://github.com/the-ora/browser,
+Orion,orion,webkit,WebKit,macos ios,Proprietary,false,unknown,,,https://orionbrowser.com/,,
+Ortix,ortix,webkit,WebKit,macos,Proprietary,false,unknown,,,https://systembionic.com/ortix,,
+Phi,phi,chromium,Chromium (fork),windows macos,Apache-2.0,true,active,stable,Free,https://phibrowser.com/,https://github.com/phibrowser/phibrowser-mac,2026-11-25
+Point,point,webkit,WebKit,macos,,,unknown,,,https://baculinivan-web.github.io/point-browser-landing/,https://github.com/baculinivan-web/Point,
+Polar,polar,chromium,Chromium,windows macos,,,active,beta,Freemium,https://polarbrowser.com/,,2026-11-25
+Quo,quo,webkit,WebKit,macos ios,MIT,true,unknown,,,https://quobrowser.com/,https://github.com/razegrowth/Quo,
+Refrax,refrax,mixed,WebKit + Chromium,macos,GPL-3.0,true,unknown,,,https://kagerou.glass/refrax/,https://github.com/kageroumado/refrax-browser,
+Sailfish,sailfish,chromium,Chromium (fork),macos ios,Apache-2.0,true,active,alpha,Free,https://www.sail.fish/,https://github.com/SailfishBrowser/macOS,2026-11-25
+Search,search,webkit,WebKit,macos ios,MIT,true,unknown,,,https://searchbrowser.app/,https://github.com/driceroland/Search,
+SigmaOS,sigmaos,webkit,WebKit,macos,Proprietary,false,unknown,,,https://sigmaos.com/,,
+Stedding,stedding,chromium,Chromium (fork),windows macos,BSD-3-Clause,true,active,beta,Free,https://stedding.dev/,https://github.com/ysalitrynskyi/stedding-browser,2026-11-25
+Surf,surf,chromium,Chromium (Electron),windows macos linux,Apache-2.0,true,active,beta,Free,https://deta.surf/,https://github.com/deta/surf,2026-11-25
+Swell,swell,gecko,Firefox (Gecko),macos linux,MPL-2.0,true,unknown,,,https://ivantacca.github.io/swell/,https://github.com/ivantacca/swell,
+Tangent,tangent,chromium,Chromium (fork),,,,unknown,,,https://tangent.place/,,
+Tarn,tarn,mixed,"WebKit, Chromium",macos windows linux ios android,GPL-3.0,true,active,alpha,Free,https://tarnbrowser.com/,https://github.com/Quavon-dev/tarn-browser,2026-11-25
+Vane,vane,webkit,WebKit,macos,MIT,true,unknown,,,https://vane.so/,https://github.com/notnaki/vane,
+Viola,viola,chromium,Chromium,windows macos linux ios android,,,active,beta,Freemium (Pro €29/month),https://violabrowser.com/,,2026-11-25
+Wren,wren,chromium,Chromium,macos,MPL-2.0,true,unknown,,,https://wrenbrowser.com/,https://github.com/MultiboxLabs/wren-browser,
+Xelium,xelium,chromium,Chromium (fork),macos,GPL-3.0,true,active,alpha,Free,,https://github.com/minervanet/xelium-macos,2026-11-25
+Yab,yab,mixed,WebKit + Chromium,macos ios android,Apache-2.0,true,active,beta,Free,https://yetanotherbrowser.com/,https://github.com/yetanotherbrowser/yab,2026-11-25
+Yalqen,yalqen,chromium,Chromium (Electron),macos,MIT,true,active,beta,Free,https://yalqen.com/,https://github.com/YSamed/yalqen,2026-11-25
+YARC,yarc,chromium,Chromium (Electron),windows macos linux,GPL-3.0,true,active,beta,Free,https://yenebeb.nl/yarc,https://github.com/yenebeb/yarc,2026-11-25
+Zen,zen,gecko,Firefox (Gecko),windows macos linux,MPL-2.0,true,unknown,,,https://zen-browser.app/,https://github.com/zen-browser/desktop,
+Zephium,zephium,mixed,WebKit (macOS) + Chromium (Windows),windows macos,MPL-2.0,true,unknown,,,https://zephium.app,https://github.com/zephium-browser/Zephium,
+Zepper,zepper,chromium,Chromium (Electron),macos linux,GPL-3.0,true,active,beta,Free,https://mrdsa.dev/zepper,https://github.com/imdewan/zepper-browser,2026-11-25
+Zigzag,zigzag,webkit,WebKit,macos,Apache-2.0,true,unknown,,,https://zigzagbrowser.com/,https://github.com/ZigaoWang/zigzag,

@@ -1,0 +1,31 @@
+{
+  "name": "Ardia",
+  "slug": "ardia",
+  "website": "https://ardia.dev/",
+  "repository": "https://github.com/ardia-browser/ardia",
+  "engine": "mixed",
+  "engine_detail": "Chromium + WebKit",
+  "platforms": [
+    "macos"
+  ],
+  "licence": "GPL-3.0",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://ardia.dev/",
+    "https://github.com/ardia-browser/ardia",
+    "https://github.com/mantrakp04/ardia",
+    "https://ardia.dev",
+    "https://ardia.dev/release-notes",
+    "https://github.com/mantrakp04/ardia/blob/main/docs/dia-feature-parity.md",
+    "https://github.com/mantrakp04/ardia/releases/tag/v0.2.46",
+    "https://github.com/ardia-browser/ardia/releases/tag/v0.2.47-nightly.2"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "beta",
+  "price": "Free"
+}

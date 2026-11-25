@@ -1,0 +1,29 @@
+{
+  "name": "Flux",
+  "slug": "flux",
+  "website": "https://flux-browser.com/",
+  "repository": "https://github.com/steeven-th/flux",
+  "engine": "chromium",
+  "engine_detail": "Chromium (fork)",
+  "platforms": [
+    "macos"
+  ],
+  "licence": "MPL-2.0",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://flux-browser.com/",
+    "https://github.com/steeven-th/flux",
+    "https://github.com/steeven-th/flux/releases",
+    "https://github.com/steeven-th/flux/blob/main/CHANGELOG.md",
+    "https://flux-browser.com/privacy/",
+    "https://github.com/steeven-th/flux/releases/tag/v0.6.0"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "alpha",
+  "price": "Free"
+}

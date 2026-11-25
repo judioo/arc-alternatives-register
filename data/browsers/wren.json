@@ -1,0 +1,23 @@
+{
+  "name": "Wren",
+  "slug": "wren",
+  "website": "https://wrenbrowser.com/",
+  "repository": "https://github.com/MultiboxLabs/wren-browser",
+  "engine": "chromium",
+  "engine_detail": "Chromium",
+  "platforms": [
+    "macos"
+  ],
+  "licence": "MPL-2.0",
+  "open_source": true,
+  "status": "unknown",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://wrenbrowser.com/",
+    "https://github.com/MultiboxLabs/wren-browser"
+  ],
+  "checked": null,
+  "notes": null
+}

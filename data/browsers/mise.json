@@ -1,0 +1,32 @@
+{
+  "name": "Mise",
+  "slug": "mise",
+  "website": "https://rakosn1cek.github.io/Mise-browser",
+  "repository": "https://github.com/Rakosn1cek/Mise-browser",
+  "engine": "chromium",
+  "engine_detail": "Chromium (Electron)",
+  "platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "licence": "GPL-3.0",
+  "open_source": true,
+  "status": "active",
+  "listed_in": [
+    "awesome-arc-alternatives"
+  ],
+  "sources": [
+    "https://rakosn1cek.github.io/Mise-browser",
+    "https://github.com/Rakosn1cek/Mise-browser",
+    "https://github.com/Rakosn1cek/Mise-browser/releases/tag/v1.6.2",
+    "https://rakosn1cek.github.io/Mise-browser/guide/installation",
+    "https://rakosn1cek.github.io/Mise-browser/guide/workspaces-and-containers",
+    "https://releases.electronjs.org/",
+    "https://github.com/Rakosn1cek/Mise-browser/releases/tag/v1.7.0"
+  ],
+  "checked": "2026-11-25",
+  "notes": null,
+  "maturity": "beta",
+  "price": "Free"
+}
