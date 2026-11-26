@@ -74,7 +74,7 @@ Not sure, or no time for a pull request? [Open an issue](../../issues/new/choose
 | Wren | Chromium 158 (Wren Runtime 0.6.1, a native wrapper, not Electron) | macOS | MPL-2.0 | active | [wrenbrowser.com](https://wrenbrowser.com/) | [MultiboxLabs/wren-browser](https://github.com/MultiboxLabs/wren-browser) |
 | Xelium | Chromium (fork) | macOS | GPL-3.0 | active |  | [minervanet/xelium-macos](https://github.com/minervanet/xelium-macos) |
 | Yab | WebKit + Chromium | macOS, iOS, Android | Apache-2.0 | active | [yetanotherbrowser.com](https://yetanotherbrowser.com/) | [yetanotherbrowser/yab](https://github.com/yetanotherbrowser/yab) |
-| Yalqen | Chromium (Electron) | macOS | MIT | active | [yalqen.com](https://yalqen.com/) | [YSamed/yalqen](https://github.com/YSamed/yalqen) |
+| Yalqen | Chromium (Electron) | macOS, Windows, Linux | MIT | active | [yalqen.com](https://yalqen.com/) | [YSamed/yalqen](https://github.com/YSamed/yalqen) |
 | YARC | Chromium (Electron) | Windows, macOS, Linux | GPL-3.0 | active | [yenebeb.nl/yarc](https://yenebeb.nl/yarc) | [yenebeb/yarc](https://github.com/yenebeb/yarc) |
 | Zen | Firefox (Gecko) | Windows, macOS, Linux | MPL-2.0 | unknown | [zen-browser.app](https://zen-browser.app/) | [zen-browser/desktop](https://github.com/zen-browser/desktop) |
 | Zephium | WebKit (macOS) + Chromium (Windows) | Windows, macOS | MPL-2.0 | unknown | [zephium.app](https://zephium.app) | [zephium-browser/Zephium](https://github.com/zephium-browser/Zephium) |
