@@ -1550,7 +1550,9 @@
     "engine": "chromium",
     "engine_detail": "Chromium (Electron)",
     "platforms": [
-      "macos"
+      "macos",
+      "windows",
+      "linux"
     ],
     "licence": "MIT",
     "open_source": true,
@@ -1561,14 +1563,14 @@
     "sources": [
       "https://yalqen.com/",
       "https://github.com/YSamed/yalqen",
-      "https://github.com/YSamed/yalqen/releases/tag/v0.4.4",
+      "https://github.com/YSamed/yalqen/releases/tag/v0.5.2",
       "https://github.com/YSamed/yalqen/blob/main/apps/browser/CHANGELOG.md",
       "https://github.com/YSamed/yalqen/blob/main/docs/README.md",
       "https://github.com/YSamed/yalqen/blob/main/docs/keyboard-shortcuts.md",
       "https://yalqen.com"
     ],
-    "checked": "2026-11-25",
-    "notes": null,
+    "checked": "2026-11-26",
+    "notes": "Windows has an unsigned x64 preview installer. The experimental Linux AppImage is built from source.",
     "maturity": "beta",
     "price": "Free"
   },

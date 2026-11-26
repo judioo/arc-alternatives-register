@@ -49,7 +49,7 @@ Viola,viola,chromium,Chromium,windows macos linux ios android,,,active,beta,Free
 Wren,wren,chromium,"Chromium 158 (Wren Runtime 0.6.1, a native wrapper, not Electron)",macos,MPL-2.0,true,active,beta,Free,https://wrenbrowser.com/,https://github.com/MultiboxLabs/wren-browser,2026-11-26
 Xelium,xelium,chromium,Chromium (fork),macos,GPL-3.0,true,active,alpha,Free,,https://github.com/minervanet/xelium-macos,2026-11-25
 Yab,yab,mixed,WebKit + Chromium,macos ios android,Apache-2.0,true,active,beta,Free,https://yetanotherbrowser.com/,https://github.com/yetanotherbrowser/yab,2026-11-25
-Yalqen,yalqen,chromium,Chromium (Electron),macos,MIT,true,active,beta,Free,https://yalqen.com/,https://github.com/YSamed/yalqen,2026-11-25
+Yalqen,yalqen,chromium,Chromium (Electron),macos windows linux,MIT,true,active,beta,Free,https://yalqen.com/,https://github.com/YSamed/yalqen,2026-11-26
 YARC,yarc,chromium,Chromium (Electron),windows macos linux,GPL-3.0,true,active,beta,Free,https://yenebeb.nl/yarc,https://github.com/yenebeb/yarc,2026-11-25
 Zen,zen,gecko,Firefox (Gecko),windows macos linux,MPL-2.0,true,unknown,,,https://zen-browser.app/,https://github.com/zen-browser/desktop,
 Zephium,zephium,mixed,WebKit (macOS) + Chromium (Windows),windows macos,MPL-2.0,true,unknown,,,https://zephium.app,https://github.com/zephium-browser/Zephium,
