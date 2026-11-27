@@ -22,6 +22,7 @@ Flux,flux,chromium,Chromium (fork),macos,MPL-2.0,true,active,alpha,Free,https://
 Halo,halo,chromium,Chromium (fork),macos,Proprietary,false,active,beta,Free during the beta,https://oxyism.com/,,2026-11-25
 Helium,helium,chromium,Chromium (fork),windows macos linux,GPL-3.0,true,active,beta,Free,https://helium.computer/,https://github.com/imputnet/helium,2026-11-25
 ilo,ilo,chromium,"Chromium 157 (ungoogled-chromium), with WebKit for protected video on Mac",macos windows linux,GPL-3.0-or-later,true,active,beta,Free,https://ilobrowser.com/,https://github.com/MartinPTielemans/ilo,2026-11-26
+Lar,lar,unknown,,ios,,,active,beta,,,,2026-11-27
 Lilo,lilo,webkit,WebKit,macos,MIT,true,unknown,,,https://getlilo.app/,https://github.com/Alexays/Lilo,
 Magnetite,magnetite,chromium,Chromium (CEF),windows macos linux,EUPL-1.2,true,active,alpha,Free,https://magnetitebrowser.org/,https://github.com/magnetite-browser/magnetite,2026-11-25
 Meridian,meridian,chromium,Chromium (fork),windows macos,MIT,true,active,beta,Free,https://meridianbrowser.app,https://github.com/Undermove/meridian-browser,2026-11-25

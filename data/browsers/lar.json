@@ -1,0 +1,22 @@
+{
+  "name": "Lar",
+  "slug": "lar",
+  "website": null,
+  "repository": null,
+  "engine": "unknown",
+  "engine_detail": null,
+  "platforms": [
+    "ios"
+  ],
+  "licence": null,
+  "open_source": null,
+  "status": "active",
+  "maturity": "beta",
+  "price": null,
+  "listed_in": [],
+  "sources": [
+    "https://testflight.apple.com/join/57gqjX9z"
+  ],
+  "checked": "2026-11-27",
+  "notes": "Public TestFlight for iPhone and iPad. The TestFlight page describes Lar as a private browser with threads instead of tabs, and says it is available on iOS. No official website or source repository was found on 27 November 2026."
+}

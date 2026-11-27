@@ -1,6 +1,6 @@
 # Arc Alternatives Register
 
-An open register of browsers built to carry on from [Arc](https://arc.net), which stops working on 22 December 2026. It lists <!-- count -->56<!-- /count --> browsers, with the facts anyone can check: engine, platforms, licence, status, website and source code.
+An open register of browsers built to carry on from [Arc](https://arc.net), which stops working on 22 December 2026. It lists <!-- count -->57<!-- /count --> browsers, with the facts anyone can check: engine, platforms, licence, status, website and source code.
 
 It records facts, not opinions. There are no scores or rankings here. Sites that compare browsers can build their own on top of it.
 
@@ -47,6 +47,7 @@ Not sure, or no time for a pull request? [Open an issue](../../issues/new/choose
 | Halo | Chromium (fork) | macOS | Proprietary | active | [oxyism.com](https://oxyism.com/) |  |
 | Helium | Chromium (fork) | Windows, macOS, Linux | GPL-3.0 | active | [helium.computer](https://helium.computer/) | [imputnet/helium](https://github.com/imputnet/helium) |
 | ilo | Chromium 157 (ungoogled-chromium), with WebKit for protected video on Mac | macOS, Windows, Linux | GPL-3.0-or-later | active | [ilobrowser.com](https://ilobrowser.com/) | [MartinPTielemans/ilo](https://github.com/MartinPTielemans/ilo) |
+| Lar | Unknown | iOS | Unknown | active |  |  |
 | Lilo | WebKit | macOS | MIT | unknown | [getlilo.app](https://getlilo.app/) | [Alexays/Lilo](https://github.com/Alexays/Lilo) |
 | Magnetite | Chromium (CEF) | Windows, macOS, Linux | EUPL-1.2 | active | [magnetitebrowser.org](https://magnetitebrowser.org/) | [magnetite-browser/magnetite](https://github.com/magnetite-browser/magnetite) |
 | Meridian | Chromium (fork) | Windows, macOS | MIT | active | [meridianbrowser.app](https://meridianbrowser.app) | [Undermove/meridian-browser](https://github.com/Undermove/meridian-browser) |
