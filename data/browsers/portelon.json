@@ -1,0 +1,26 @@
+{
+  "name": "Portelon",
+  "slug": "portelon",
+  "website": "https://portelon.com/",
+  "repository": null,
+  "engine": "unknown",
+  "engine_detail": null,
+  "platforms": [
+    "macos",
+    "windows",
+    "linux"
+  ],
+  "licence": null,
+  "open_source": null,
+  "status": "active",
+  "maturity": null,
+  "price": "Free to browse, $10 a month with agents",
+  "listed_in": [],
+  "sources": [
+    "https://portelon.com/",
+    "https://portelon.com/download",
+    "https://portelon.com/pricing"
+  ],
+  "checked": "2026-11-27",
+  "notes": "Downloads are offered for macOS 13 or later on Apple silicon, Windows 10 or later 64-bit, and Linux x86_64 (Debian, RPM and Arch packages). Browsing is free. Agents get 30 days free with no card needed, then $10 a month covering five computers at once. Official pages checked do not state the engine, licence or a public source repository, and do not mention iOS."
+}

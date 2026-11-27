@@ -34,6 +34,7 @@ Ortix,ortix,webkit,WebKit,macos,Proprietary,false,unknown,,,https://systembionic
 Phi,phi,chromium,Chromium (fork),windows macos,Apache-2.0,true,active,stable,Free,https://phibrowser.com/,https://github.com/phibrowser/phibrowser-mac,2026-11-25
 Point,point,webkit,WebKit,macos,,,unknown,,,https://baculinivan-web.github.io/point-browser-landing/,https://github.com/baculinivan-web/Point,
 Polar,polar,chromium,Chromium,windows macos,,,active,beta,Freemium,https://polarbrowser.com/,,2026-11-25
+Portelon,portelon,unknown,,macos windows linux,,,active,,"Free to browse, $10 a month with agents",https://portelon.com/,,2026-11-27
 Quo,quo,webkit,WebKit,macos ios,MIT,true,unknown,,,https://quobrowser.com/,https://github.com/razegrowth/Quo,
 Refrax,refrax,mixed,WebKit (WKWebView) with a Chromium 155 option (ungoogled-chromium),macos,GPL-3.0,true,active,beta,Free,https://kagerou.glass/refrax/,https://github.com/kageroumado/refrax-browser,2026-11-26
 Sailfish,sailfish,chromium,Chromium (fork),macos ios,Apache-2.0,true,active,alpha,Free,https://www.sail.fish/,https://github.com/SailfishBrowser/macOS,2026-11-25
