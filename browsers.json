@@ -973,10 +973,13 @@
       "awesome-arc-alternatives"
     ],
     "sources": [
-      "https://orionbrowser.com/"
+      "https://orionbrowser.com/",
+      "https://blog.kagi.com/update-orion-linux-windows",
+      "https://github.com/kagisearch/orion-linux",
+      "https://github.com/kagisearch/orion-windows"
     ],
-    "checked": null,
-    "notes": null
+    "checked": "2026-11-27",
+    "notes": "Kagi has ended development of Orion for Linux and Windows and published their source as read-only archives under Apache-2.0, to focus on macOS and iOS."
   },
   {
     "name": "Ortix",
