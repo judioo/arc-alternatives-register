@@ -1,0 +1,26 @@
+{
+  "name": "Project B",
+  "slug": "project-b",
+  "website": "https://projectb.debkosh.com/",
+  "repository": "https://github.com/debkosh/project-b",
+  "engine": "chromium",
+  "engine_detail": "Chromium content layer, unpatched",
+  "platforms": [
+    "macos",
+    "android",
+    "linux"
+  ],
+  "licence": "MIT",
+  "open_source": true,
+  "status": "active",
+  "maturity": null,
+  "price": "Free",
+  "listed_in": [],
+  "sources": [
+    "https://projectb.debkosh.com/",
+    "https://github.com/debkosh/project-b",
+    "https://github.com/debkosh/project-b/blob/main/README.md"
+  ],
+  "checked": "2026-11-27",
+  "notes": "Official pages offer builds for Apple silicon Macs, arm64 Android (10 or newer), and arm64 Linux, the last of these labelled a beta. The site describes it as free and open source. Official pages do not offer a Windows or iOS build."
+}
