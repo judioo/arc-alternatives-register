@@ -1085,6 +1085,33 @@
     "price": "Freemium"
   },
   {
+    "name": "Quicksilver",
+    "slug": "quicksilver",
+    "website": "https://mercprojects.github.io/quicksilver/",
+    "repository": "https://github.com/MercProjects/Quicksilver",
+    "engine": "mixed",
+    "engine_detail": "Chromium (Electron) on Windows and macOS, WebKit (WebKitGTK) on Linux",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ],
+    "licence": null,
+    "open_source": false,
+    "status": "active",
+    "maturity": "beta",
+    "price": null,
+    "listed_in": [],
+    "sources": [
+      "https://mercprojects.github.io/quicksilver/",
+      "https://github.com/MercProjects/Quicksilver",
+      "https://github.com/MercProjects/Quicksilver/blob/main/README.md",
+      "https://github.com/MercProjects/Quicksilver/blob/main/LICENSE"
+    ],
+    "checked": "2026-11-27",
+    "notes": "Described as a public beta. The repository uses The Metal License, Version 1.0, November 2026, which allows use and local modification but does not allow distributing modified versions, so this is not recorded as open source. Official pages do not mention iOS. Price is not stated as a paid product on the pages checked."
+  },
+  {
     "name": "Quo",
     "slug": "quo",
     "website": "https://quobrowser.com/",
