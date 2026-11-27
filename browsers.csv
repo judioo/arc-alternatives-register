@@ -32,6 +32,7 @@ Ora,ora,webkit,WebKit,macos,GPL-3.0,true,unknown,,,,https://github.com/the-ora/b
 Orion,orion,webkit,WebKit,macos ios,Proprietary,false,unknown,,,https://orionbrowser.com/,,
 Ortix,ortix,webkit,WebKit,macos,Proprietary,false,unknown,,,https://systembionic.com/ortix,,
 Phi,phi,chromium,Chromium (fork),windows macos,Apache-2.0,true,active,stable,Free,https://phibrowser.com/,https://github.com/phibrowser/phibrowser-mac,2026-11-25
+Plop,plop,unknown,,ios macos,,,active,,$2.99 on the App Store for iPhone and iPad,https://plopbrowser.com/,,2026-11-27
 Point,point,webkit,WebKit,macos,,,unknown,,,https://baculinivan-web.github.io/point-browser-landing/,https://github.com/baculinivan-web/Point,
 Polar,polar,chromium,Chromium,windows macos,,,active,beta,Freemium,https://polarbrowser.com/,,2026-11-25
 Quo,quo,webkit,WebKit,macos ios,MIT,true,unknown,,,https://quobrowser.com/,https://github.com/razegrowth/Quo,

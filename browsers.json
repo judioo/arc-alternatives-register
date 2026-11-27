@@ -1031,6 +1031,31 @@
     "price": "Free"
   },
   {
+    "name": "Plop",
+    "slug": "plop",
+    "website": "https://plopbrowser.com/",
+    "repository": null,
+    "engine": "unknown",
+    "engine_detail": null,
+    "platforms": [
+      "ios",
+      "macos"
+    ],
+    "licence": null,
+    "open_source": null,
+    "status": "active",
+    "maturity": null,
+    "price": "$2.99 on the App Store for iPhone and iPad",
+    "listed_in": [],
+    "sources": [
+      "https://plopbrowser.com/",
+      "https://plopbrowser.com/mac/",
+      "https://apps.apple.com/us/app/plop-browser/id6828029805"
+    ],
+    "checked": "2026-11-27",
+    "notes": "iPhone and iPad are on the public App Store (app id 6828029805), first released 30 October 2026, current version 1.1.9 as of 26 November 2026, priced at $2.99, requiring iOS 18.4 or later. The Mac edition is a beta download from the official site, for Apple silicon and Intel. Official pages checked do not state the engine, licence or a source repository. The Mac price is not stated on the pages checked."
+  },
+  {
     "name": "Point",
     "slug": "point",
     "website": "https://baculinivan-web.github.io/point-browser-landing/",
