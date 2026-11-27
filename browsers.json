@@ -566,20 +566,23 @@
     "engine": "webkit",
     "engine_detail": "WebKit",
     "platforms": [
-      "macos"
+      "macos",
+      "ios"
     ],
     "licence": "MPL-2.0",
     "open_source": true,
-    "status": "unknown",
+    "status": "active",
+    "price": "Free",
     "listed_in": [
       "awesome-arc-alternatives"
     ],
     "sources": [
       "https://firnbrowser.com/",
-      "https://github.com/dwurgy/firn"
+      "https://github.com/dwurgy/firn",
+      "https://apps.apple.com/us/app/firn-browser/id6829053602"
     ],
-    "checked": null,
-    "notes": null
+    "checked": "2026-11-27",
+    "notes": "iPhone and iPad are on the public App Store as of 25 November 2026. The homepage still also says iPhone and iPad are on the way."
   },
   {
     "name": "Flecha",

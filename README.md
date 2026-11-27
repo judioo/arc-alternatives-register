@@ -41,7 +41,7 @@ Not sure, or no time for a pull request? [Open an issue](../../issues/new/choose
 | Crest | Chromium + WebKit | macOS, iOS | MPL-2.0 | active | [crestbrowser.com](https://crestbrowser.com/) | [crest-browser/Crest](https://github.com/crest-browser/Crest) |
 | Darni | Chromium (fork) | macOS | Apache-2.0 | active | [darni.imara.ae](https://darni.imara.ae/) | [judioo/darni](https://github.com/judioo/darni) |
 | Dia | Chromium | Windows, macOS | Proprietary | active | [diabrowser.com](https://www.diabrowser.com/) |  |
-| Firn | WebKit | macOS | MPL-2.0 | unknown | [firnbrowser.com](https://firnbrowser.com/) | [dwurgy/firn](https://github.com/dwurgy/firn) |
+| Firn | WebKit | macOS, iOS | MPL-2.0 | active | [firnbrowser.com](https://firnbrowser.com/) | [dwurgy/firn](https://github.com/dwurgy/firn) |
 | Flecha | Chromium (fork) | macOS | MIT | active | [flecha.dev](https://flecha.dev/) | [lucianodiisouza/flecha-browser](https://github.com/lucianodiisouza/flecha-browser) |
 | Flux | Chromium (fork) | macOS | MPL-2.0 | active | [flux-browser.com](https://flux-browser.com/) | [steeven-th/flux](https://github.com/steeven-th/flux) |
 | Halo | Chromium (fork) | macOS | Proprietary | active | [oxyism.com](https://oxyism.com/) |  |

@@ -16,7 +16,7 @@ Cra,cra,chromium,Chromium (CEF),macos ios,MIT,true,active,beta,Free,https://crab
 Crest,crest,mixed,Chromium + WebKit,macos ios,MPL-2.0,true,active,beta,Free,https://crestbrowser.com/,https://github.com/crest-browser/Crest,2026-11-25
 Darni,darni,chromium,Chromium (fork),macos,Apache-2.0,true,active,beta,Free,https://darni.imara.ae/,https://github.com/judioo/darni,2026-11-26
 Dia,dia,chromium,Chromium,windows macos,Proprietary,false,active,stable,Freemium,https://www.diabrowser.com/,,2026-11-25
-Firn,firn,webkit,WebKit,macos,MPL-2.0,true,unknown,,,https://firnbrowser.com/,https://github.com/dwurgy/firn,
+Firn,firn,webkit,WebKit,macos ios,MPL-2.0,true,active,,Free,https://firnbrowser.com/,https://github.com/dwurgy/firn,2026-11-27
 Flecha,flecha,chromium,Chromium (fork),macos,MIT,true,active,alpha,Free,https://flecha.dev/,https://github.com/lucianodiisouza/flecha-browser,2026-11-25
 Flux,flux,chromium,Chromium (fork),macos,MPL-2.0,true,active,alpha,Free,https://flux-browser.com/,https://github.com/steeven-th/flux,2026-11-25
 Halo,halo,chromium,Chromium (fork),macos,Proprietary,false,active,beta,Free during the beta,https://oxyism.com/,,2026-11-25
