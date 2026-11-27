@@ -1,6 +1,6 @@
 # Arc Alternatives Register
 
-An open register of browsers built to carry on from [Arc](https://arc.net), which stops working on 22 December 2026. It lists <!-- count -->56<!-- /count --> browsers, with the facts anyone can check: engine, platforms, licence, status, website and source code.
+An open register of browsers built to carry on from [Arc](https://arc.net), which stops working on 22 December 2026. It lists <!-- count -->57<!-- /count --> browsers, with the facts anyone can check: engine, platforms, licence, status, website and source code.
 
 It records facts, not opinions. There are no scores or rankings here. Sites that compare browsers can build their own on top of it.
 
@@ -70,6 +70,7 @@ Not sure, or no time for a pull request? [Open an issue](../../issues/new/choose
 | Tangent | Chromium (fork) | Not stated | Unknown | unknown | [tangent.place](https://tangent.place/) |  |
 | Tarn | WebKit, Chromium | macOS, Windows, Linux, iOS, Android | GPL-3.0 | active | [tarnbrowser.com](https://tarnbrowser.com/) | [Quavon-dev/tarn-browser](https://github.com/Quavon-dev/tarn-browser) |
 | Vane | WebKit | macOS | MIT | unknown | [vane.so](https://vane.so/) | [notnaki/vane](https://github.com/notnaki/vane) |
+| Vimma | Firefox (Gecko) | Linux, macOS | MPL-2.0 | active | [vimma.dev](https://vimma.dev) | [vimma-browser/vimma](https://github.com/vimma-browser/vimma) |
 | Viola | Chromium | Windows, macOS, Linux, iOS, Android | Unknown | active | [violabrowser.com](https://violabrowser.com/) |  |
 | Wren | Chromium 158 (Wren Runtime 0.6.1, a native wrapper, not Electron) | macOS | MPL-2.0 | active | [wrenbrowser.com](https://wrenbrowser.com/) | [MultiboxLabs/wren-browser](https://github.com/MultiboxLabs/wren-browser) |
 | Xelium | Chromium (fork) | macOS | GPL-3.0 | active |  | [minervanet/xelium-macos](https://github.com/minervanet/xelium-macos) |

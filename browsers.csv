@@ -45,6 +45,7 @@ Swell,swell,gecko,Firefox (Gecko),macos linux,MPL-2.0,true,unknown,,,https://iva
 Tangent,tangent,chromium,Chromium (fork),,,,unknown,,,https://tangent.place/,,
 Tarn,tarn,mixed,"WebKit, Chromium",macos windows linux ios android,GPL-3.0,true,active,alpha,Free,https://tarnbrowser.com/,https://github.com/Quavon-dev/tarn-browser,2026-11-25
 Vane,vane,webkit,WebKit,macos,MIT,true,unknown,,,https://vane.so/,https://github.com/notnaki/vane,
+Vimma,vimma,gecko,Firefox (Gecko),linux macos,MPL-2.0,true,active,alpha,,https://vimma.dev,https://github.com/vimma-browser/vimma,2026-11-27
 Viola,viola,chromium,Chromium,windows macos linux ios android,,,active,beta,Freemium (Pro €29/month),https://violabrowser.com/,,2026-11-25
 Wren,wren,chromium,"Chromium 158 (Wren Runtime 0.6.1, a native wrapper, not Electron)",macos,MPL-2.0,true,active,beta,Free,https://wrenbrowser.com/,https://github.com/MultiboxLabs/wren-browser,2026-11-26
 Xelium,xelium,chromium,Chromium (fork),macos,GPL-3.0,true,active,alpha,Free,,https://github.com/minervanet/xelium-macos,2026-11-25

@@ -1403,6 +1403,31 @@
     "notes": null
   },
   {
+    "name": "Vimma",
+    "slug": "vimma",
+    "website": "https://vimma.dev",
+    "repository": "https://github.com/vimma-browser/vimma",
+    "engine": "gecko",
+    "engine_detail": "Firefox (Gecko)",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "licence": "MPL-2.0",
+    "open_source": true,
+    "status": "active",
+    "maturity": "alpha",
+    "price": null,
+    "listed_in": [],
+    "sources": [
+      "https://vimma.dev",
+      "https://github.com/vimma-browser/vimma",
+      "https://github.com/vimma-browser/vimma/blob/main/README.md"
+    ],
+    "checked": "2026-11-27",
+    "notes": "Official pages list Linux x86_64 and macOS 15 or later on Apple Silicon. They do not mention Windows or iOS. Price is not stated as a paid product on the pages checked."
+  },
+  {
     "name": "Viola",
     "slug": "viola",
     "website": "https://violabrowser.com/",
