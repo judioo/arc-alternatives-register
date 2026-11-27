@@ -956,6 +956,30 @@
     "notes": null
   },
   {
+    "name": "Oriel",
+    "slug": "oriel",
+    "website": "https://oriel.charstudio.app",
+    "repository": "https://github.com/carpaaaaa/oriel",
+    "engine": "chromium",
+    "engine_detail": "Chromium (Electron)",
+    "platforms": [
+      "windows"
+    ],
+    "licence": "MIT",
+    "open_source": true,
+    "status": "active",
+    "maturity": null,
+    "price": "Free",
+    "listed_in": [],
+    "sources": [
+      "https://oriel.charstudio.app",
+      "https://github.com/carpaaaaa/oriel",
+      "https://github.com/carpaaaaa/oriel/blob/main/README.md"
+    ],
+    "checked": "2026-11-27",
+    "notes": "An unofficial port of Search, the Mac browser by Office Commun, made by Char Studio for Windows 10 and 11 on x64 and ARM64. It is not affiliated with or endorsed by Office Commun. Also offered in the Microsoft Store. Official pages do not mention iOS."
+  },
+  {
     "name": "Orion",
     "slug": "orion",
     "website": "https://orionbrowser.com/",

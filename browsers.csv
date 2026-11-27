@@ -29,6 +29,7 @@ Mise,mise,chromium,Chromium (Electron),windows macos linux,GPL-3.0,true,active,b
 Nook,nook,webkit,WebKit,macos,GPL-3.0,true,unknown,,,https://browsewithnook.com/,https://github.com/nook-browser/Nook,
 OpenArch,openarch,mixed,"Chromium 158 (Chrome's own framework, CEF dropped in 0.4.0), WebKit for DRM streaming",macos ios,MIT,true,active,beta,Free,https://openarch.app/,https://github.com/dpfaffenbauer/OpenArch,2026-11-26
 Ora,ora,webkit,WebKit,macos,GPL-3.0,true,unknown,,,,https://github.com/the-ora/browser,
+Oriel,oriel,chromium,Chromium (Electron),windows,MIT,true,active,,Free,https://oriel.charstudio.app,https://github.com/carpaaaaa/oriel,2026-11-27
 Orion,orion,webkit,WebKit,macos ios,Proprietary,false,unknown,,,https://orionbrowser.com/,,
 Ortix,ortix,webkit,WebKit,macos,Proprietary,false,unknown,,,https://systembionic.com/ortix,,
 Phi,phi,chromium,Chromium (fork),windows macos,Apache-2.0,true,active,stable,Free,https://phibrowser.com/,https://github.com/phibrowser/phibrowser-mac,2026-11-25
