@@ -22,5 +22,5 @@
     "https://github.com/kagisearch/orion-windows"
   ],
   "checked": "2026-11-27",
-  "notes": "Kagi has published the source of Orion for Linux and Orion for Windows (Apache-2.0) and says it will not maintain them or ship a Windows release, focusing on macOS and iOS."
+  "notes": "Kagi has ended development of Orion for Linux and Windows and published their source as read-only archives under Apache-2.0, to focus on macOS and iOS."
 }
