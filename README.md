@@ -1,6 +1,6 @@
 # Arc Alternatives Register
 
-An open register of browsers built to carry on from [Arc](https://arc.net), which stops working on 22 December 2026. It lists <!-- count -->56<!-- /count --> browsers, with the facts anyone can check: engine, platforms, licence, status, website and source code.
+An open register of browsers built to carry on from [Arc](https://arc.net), which stops working on 22 December 2026. It lists <!-- count -->57<!-- /count --> browsers, with the facts anyone can check: engine, platforms, licence, status, website and source code.
 
 It records facts, not opinions. There are no scores or rankings here. Sites that compare browsers can build their own on top of it.
 
@@ -54,6 +54,7 @@ Not sure, or no time for a pull request? [Open an issue](../../issues/new/choose
 | Nook | WebKit | macOS | GPL-3.0 | unknown | [browsewithnook.com](https://browsewithnook.com/) | [nook-browser/Nook](https://github.com/nook-browser/Nook) |
 | OpenArch | Chromium 158 (Chrome's own framework, CEF dropped in 0.4.0), WebKit for DRM streaming | macOS, iOS | MIT | active | [openarch.app](https://openarch.app/) | [dpfaffenbauer/OpenArch](https://github.com/dpfaffenbauer/OpenArch) |
 | Ora | WebKit | macOS | GPL-3.0 | unknown |  | [the-ora/browser](https://github.com/the-ora/browser) |
+| Oriel | Chromium (Electron) | Windows | MIT | active | [oriel.charstudio.app](https://oriel.charstudio.app) | [carpaaaaa/oriel](https://github.com/carpaaaaa/oriel) |
 | Orion | WebKit | macOS, iOS | Proprietary | unknown | [orionbrowser.com](https://orionbrowser.com/) |  |
 | Ortix | WebKit | macOS | Proprietary | unknown | [systembionic.com/ortix](https://systembionic.com/ortix) |  |
 | Phi | Chromium (fork) | Windows, macOS | Apache-2.0 | active | [phibrowser.com](https://phibrowser.com/) | [phibrowser/phibrowser-mac](https://github.com/phibrowser/phibrowser-mac) |
