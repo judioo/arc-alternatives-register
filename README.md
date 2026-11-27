@@ -1,6 +1,6 @@
 # Arc Alternatives Register
 
-An open register of browsers built to carry on from [Arc](https://arc.net), which stops working on 22 December 2026. It lists <!-- count -->56<!-- /count --> browsers, with the facts anyone can check: engine, platforms, licence, status, website and source code.
+An open register of browsers built to carry on from [Arc](https://arc.net), which stops working on 22 December 2026. It lists <!-- count -->57<!-- /count --> browsers, with the facts anyone can check: engine, platforms, licence, status, website and source code.
 
 It records facts, not opinions. There are no scores or rankings here. Sites that compare browsers can build their own on top of it.
 
@@ -57,6 +57,7 @@ Not sure, or no time for a pull request? [Open an issue](../../issues/new/choose
 | Orion | WebKit | macOS, iOS | Proprietary | unknown | [orionbrowser.com](https://orionbrowser.com/) |  |
 | Ortix | WebKit | macOS | Proprietary | unknown | [systembionic.com/ortix](https://systembionic.com/ortix) |  |
 | Phi | Chromium (fork) | Windows, macOS | Apache-2.0 | active | [phibrowser.com](https://phibrowser.com/) | [phibrowser/phibrowser-mac](https://github.com/phibrowser/phibrowser-mac) |
+| Plop | Unknown | iOS, macOS | Unknown | active | [plopbrowser.com](https://plopbrowser.com/) |  |
 | Point | WebKit | macOS | Unknown | unknown | [baculinivan-web.github.io/point-browser-landing](https://baculinivan-web.github.io/point-browser-landing/) | [baculinivan-web/Point](https://github.com/baculinivan-web/Point) |
 | Polar | Chromium | Windows, macOS | Unknown | active | [polarbrowser.com](https://polarbrowser.com/) |  |
 | Quo | WebKit | macOS, iOS | MIT | unknown | [quobrowser.com](https://quobrowser.com/) | [razegrowth/Quo](https://github.com/razegrowth/Quo) |
