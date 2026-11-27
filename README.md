@@ -1,6 +1,6 @@
 # Arc Alternatives Register
 
-An open register of browsers built to carry on from [Arc](https://arc.net), which stops working on 22 December 2026. It lists <!-- count -->56<!-- /count --> browsers, with the facts anyone can check: engine, platforms, licence, status, website and source code.
+An open register of browsers built to carry on from [Arc](https://arc.net), which stops working on 22 December 2026. It lists <!-- count -->57<!-- /count --> browsers, with the facts anyone can check: engine, platforms, licence, status, website and source code.
 
 It records facts, not opinions. There are no scores or rankings here. Sites that compare browsers can build their own on top of it.
 
@@ -59,6 +59,7 @@ Not sure, or no time for a pull request? [Open an issue](../../issues/new/choose
 | Phi | Chromium (fork) | Windows, macOS | Apache-2.0 | active | [phibrowser.com](https://phibrowser.com/) | [phibrowser/phibrowser-mac](https://github.com/phibrowser/phibrowser-mac) |
 | Point | WebKit | macOS | Unknown | unknown | [baculinivan-web.github.io/point-browser-landing](https://baculinivan-web.github.io/point-browser-landing/) | [baculinivan-web/Point](https://github.com/baculinivan-web/Point) |
 | Polar | Chromium | Windows, macOS | Unknown | active | [polarbrowser.com](https://polarbrowser.com/) |  |
+| Project B | Chromium content layer, unpatched | macOS, Android, Linux | MIT | active | [projectb.debkosh.com](https://projectb.debkosh.com/) | [debkosh/project-b](https://github.com/debkosh/project-b) |
 | Quo | WebKit | macOS, iOS | MIT | unknown | [quobrowser.com](https://quobrowser.com/) | [razegrowth/Quo](https://github.com/razegrowth/Quo) |
 | Refrax | WebKit (WKWebView) with a Chromium 155 option (ungoogled-chromium) | macOS | GPL-3.0 | active | [kagerou.glass/refrax](https://kagerou.glass/refrax/) | [kageroumado/refrax-browser](https://github.com/kageroumado/refrax-browser) |
 | Sailfish | Chromium (fork) | macOS, iOS | Apache-2.0 | active | [sail.fish](https://www.sail.fish/) | [SailfishBrowser/macOS](https://github.com/SailfishBrowser/macOS) |
